@@ -15,3 +15,28 @@ persons with regard to the processing of personal data and on the free movement 
 
 The GDPR regulates the fundamental rights of *natural persons* regarding the protection and free movement of
 *personal data* throughout the European Union and European Economic Area.
+
+[#art2]
+== Article 2: Material scope
+
+The GDPR applies to the *wholly or partly automated processing* of personal data,
+and to the *manual processing* of personal data that is part of a <<art4,*filing system* (Article 4(6))>>.
+
+The GDPR _does not_ apply to the processing of personal data for purposes that are:
+
+. outside the scope of *European Union law*
+. in accordance with *Chapter 2 of Title V of the
+https://eur-lex.europa.eu/eli/treaty/teu_2012/oj[Treaty on European Union]*
+(General provisions on the Union's external action and specific provisions on the common foreign and security policy)
+. *personal/household activities* carried out by a *natural person*
+. required by *competent authorities* for the investigation and prevention of *criminal offenses*
+or to execute relevant penalties
+
+The GDPR *does not affect* the application of the
+https://eur-lex.europa.eu/eli/dir/2000/31/oj[2000 directive on electronic commerce]
+(specifically Articles 12–15).
+
+[#art4]
+== Article 4: Definitions
+
+A *filing system* refers to any structured, accessible and identifiable set of personal data.
