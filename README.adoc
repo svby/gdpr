@@ -10,4 +10,8 @@ Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 Apr
 persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive
 95/46/EC (General Data Protection Regulation)
 
-== Article 1
+[#art1]
+== Article 1: Subject matter and objectives
+
+The GDPR regulates the fundamental rights of *natural persons* regarding the protection and free movement of
+*personal data* throughout the European Union and European Economic Area.
