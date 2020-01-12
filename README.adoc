@@ -408,3 +408,10 @@ All such legislation must include:
 . how long the personal data will be stored
 . any risks to the rights of data subjects
 . the right of data subjects to be informed about said restriction, *unless this would be detrimental to the effectiveness of the restriction*
+
+[#art24]
+== Article 24: Responsibilities of the controller
+
+*The controller is responsible for taking steps to appropriately ensure that all processing is performed in accordance with the GDPR*; this includes the application of appropriate data protection policies.
+
+Adherence to <<art40,approved codes of conduct>> or <<art42,certification mechanisms>> may be used to demonstrate Regulation compliance.
