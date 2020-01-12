@@ -466,3 +466,8 @@ Adherence to <<art40,approved codes of conduct>> or <<art42,approved certificati
 The European Commission or a <<art4-supervisory-authority,supervisory authority>> may offer or adopt *standard contractual clauses* footnote:[https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en[European Commission: Standard Contractual Clauses]] that can be used as a basis for a contract between the controller and processor.
 
 *If a processor violates the GDPR by determining the purposes and/or means of processing, it is considered a controller for the purposes of that processing*.
+
+[#art29]
+== Article 29: Processing under the authority of the controller or processor
+
+Any authorized entity that has access to personal data may not process it unless instructed to do so by the controller, or if required to do so by European Union or Member State law.
