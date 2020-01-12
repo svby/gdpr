@@ -36,6 +36,19 @@ The GDPR *does not affect* the application of the
 https://eur-lex.europa.eu/eli/dir/2000/31/oj[2000 directive on electronic commerce]
 (specifically Articles 12–15).
 
+[#art3]
+== Article 3: Territorial scope
+
+The GDPR applies to:
+
+. the processing of personal data by *controllers and processors* established in the European Union,
+*regardless of the actual location of processing*
+. the processing of personal data by controllers and processors in any location where Member State law applies
+. the processing of personal data of *data subjects in the European Union* by controllers and processors
+established elsewhere, if:
+.. goods or services are being offered
+.. subjects' behavior within the European Union is otherwise being monitored
+
 [#art4]
 == Article 4: Definitions
 
