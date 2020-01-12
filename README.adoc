@@ -139,6 +139,7 @@ damage ("integrity and confidentiality")
 
 Data processing is *lawful* if at least one of the following applies:
 
+[#art6-consent]
 . the data subject has given <<consent,consent>> to the processing of their personal data for a specific purpose
 . processing is necessary to *fulfill a contract* with the data subject
 . processing is *requested by the data subject* prior to entering into a contract
@@ -164,3 +165,17 @@ in order to determine whether the processing is compatible:
 . whether personal data related to criminal convictions or offenses (see <<art10,Article 10>>) is processed
 . *any possible consequences* of the intended further processing
 . *any appropriate safeguards*; this includes *encryption* or *<<pseudonymization,pseudonymization>>*
+
+[#art7]
+== Article 7: Conditions for consent
+
+If the lawfulness of data processing is *<<art6-consent,based on consent>>*,
+the controller *must be able to clearly demonstrate* that the data subject has freely consented
+to the processing of their personal data. Data subjects must be *clearly informed* when consent is required,
+and *must be allowed to withdraw their consent* at any time;
+withdrawal *must not be made any more difficult* than the initial request for consent.
+
+Consent should not be "bundled up as a condition of service", unless it is *absolutely necessary*
+footnote:[https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/consent/what-is-valid-consent[UK Information Commissioner's Office: What is valid consent?]];
+if consent is required as part of the conditions for a contract, but *is not absolutely necessary* for its fulfillment,
+it is not considered freely given.
