@@ -496,3 +496,8 @@ Processors and their respective representatives must maintain *written electroni
 . a description of technical and organizational security measures (see <<art32,Article 32>>)
 
 These records must be made available to the <<art4-supervisory-authority,supervisory authority>> upon request.
+
+[#art31]
+== Article 31: Cooperation with the supervisory authority
+
+The controller, processor, and their respective representatives must cooperate with the <<art4-supervisory-authority,supervisory authority>>.
