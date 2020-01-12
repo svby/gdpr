@@ -257,7 +257,7 @@ When personal data is obtained, if they have not already done so, the controller
 . the contact details of the *<<art37,data protection officer>>*, if applicable
 . the *<<art5,purposes>> and <<art6,legal basis>> of the processing*
 . the *<<art6-interests,legitimate interests>>* of the controller or of a <<third-party,third party>>
-. where applicable, *any intention by the controller to transfer personal data to a third country or international organisation* and of any relevant <<art45,adequacy decision>>, or in the case of transfers to which Articles <<art46,46>>, <<art47,47>> and <<art49,49>>, *a reference to the appropriate safeguards*.
+. where applicable, *any intention by the controller to transfer personal data to a third country or international organization* and of any relevant <<art45,adequacy decision>>, or in the case of transfers to which Articles <<art46,46>>, <<art47,47>> and <<art49,49>>, *a reference to the appropriate safeguards*.
 . how long the personal data will be stored
 . the rights of the data subject to *submit an <<art15,information>>, <<art16,rectification>> or <<art17,erasure request>>*, to *<<art18,restriction of processing>>* and *<<art20,data portability>>*,footnoteref:[ico-portability, https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability[UK Information Commissioner’s Office: Right to data portability] ] and to *withdraw consent or <<art21,object to processing>>* at any time; withdrawal of consent does not affect the lawfulness of processing prior to the withdrawal
 . the right to file a complaint with a <<art4-supervisory-authority,supervisory authority>>
@@ -274,7 +274,7 @@ When personal data has been obtained from a source other than the data subject, 
 . the *<<art5,purposes>> and <<art6,legal basis>> of the processing*
 . the categories of the personal data
 . the recipients of the personal data, if applicable
-. where applicable, *any intention by the controller to transfer personal data to a third country or international organisation* and of any relevant <<art45,adequacy decision>>, or in the case of transfers to which Articles <<art46,46>>, <<art47,47>> and <<art49,49>>, *a reference to the appropriate safeguards*.
+. where applicable, *any intention by the controller to transfer personal data to a third country or international organization* and of any relevant <<art45,adequacy decision>>, or in the case of transfers to which Articles <<art46,46>>, <<art47,47>> and <<art49,49>>, *a reference to the appropriate safeguards*.
 . how long the personal data will be stored
 . the *<<art6-interests,legitimate interests>>* of the controller or of a <<third-party,third party>>
 . the rights of the data subject to *submit an <<art15,information>>, <<art16,rectification>> or <<art17,erasure request>>*, to *<<art18,restriction of processing>>* and *<<art20,data portability>>*,footnoteref:[ico-portability]
@@ -470,4 +470,29 @@ The European Commission or a <<art4-supervisory-authority,supervisory authority>
 [#art29]
 == Article 29: Processing under the authority of the controller or processor
 
-Any authorized entity that has access to personal data may not process it unless instructed to do so by the controller, or if required to do so by European Union or Member State law.
+Any authorized entity that has access to personal data may not process it *unless instructed to do so by the controller*, or if required to do so by European Union or Member State law.
+
+[#art30]
+== Article 30: Records of processing activities
+
+CAUTION: The following obligations apply only to *organizations employing at least 250 persons*, unless processing occurs regularly, involves <<art9,special categories>> of data or <<art10,data relating to criminal convictions and offenses>>, or is likely to be a risk to the rights of data subjects.
+
+Controllers and their respective representatives must maintain *written electronic records* of processing activities carried out as part of its operations, which must contain:
+
+. the *identity and contact details of the controller*, and, if applicable, of its representative or <<art26,joint controller>>
+. the contact details of the *<<art37,data protection officer>>*, if applicable
+. the *<<art5,purposes>> of the processing*
+. the categories of the personal data
+. *any transfers of personal data to a third country or international organization* and any suitable safeguards
+. any time limits for erasure of the stored data
+. a description of technical and organizational security measures (see <<art32,Article 32>>)
+
+Processors and their respective representatives must maintain *written electronic records* of processing activities carried out on behalf of a controller, which must contain:
+
+. the *identity and contact details of the processor and controller(s)*, and, if applicable, of the controller's and/or processor's representative
+. the contact details of the *<<art37,data protection officer>>*, if applicable
+. the categories of processing carried out on behalf of each controller
+. *any transfers of personal data to a third country or international organization* and any suitable safeguards
+. a description of technical and organizational security measures (see <<art32,Article 32>>)
+
+These records must be made available to the <<art4-supervisory-authority,supervisory authority>> upon request.
