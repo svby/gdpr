@@ -61,10 +61,12 @@ any information relating to *an <<identifiable-natural-person,_identified or ide
 a natural person who can be *directly or indirectly* identified through use of a name, ID, location data, or other
 identifier specific to the person (see also: <<genetic-data,genetic data>>).
 [#processing]
-*processing*:: any operation performed on personal data, regardless of whether it is automated
+*processing*:: any operation performed on personal data, regardless of whether it is automated;
+this includes collection, recording, structuring, *storage*, alteration, retrieval, and dissemination of personal data.
 *restriction of processing*:: the marking of stored personal data so as to limit its future processing
 *profiling*:: automated processing of personal data to evaluate personal aspects of the data subject; this includes
 the analysis or prediction of the subject's performance, economic situation, health, interests, location, etc.
+[#pseudonymization]
 *pseudonymization*:: the processing of personal data in order to prevent identification of the respective data subject
 without additional information; said additional information must be stored separately and adequately secured
 *filing system*:: a structured, accessible and identifiable set of personal data
@@ -75,6 +77,7 @@ personal data
 an inquiry *are not considered recipients* but must comply with applicable data protection rules
 *third party*:: an entity other than the data subject, controller, or processor which is authorized to process personal
 data
+[#consent]
 *consent*:: *freely given, specific, informed and unambiguous* indication that the data subject agrees to have their
 personal data processed
 *personal data breach*:: a breach of security leading to *the destruction, loss, alteration, unauthorized disclosure of or access to* processed personal data
@@ -131,3 +134,33 @@ The controller is responsible ("accountability") for ensuring that personal data
 (see <<art89,Article 89>>) with the appropriate privacy safeguards
 . *appropriately secured*; this includes protection against unauthorized access and data loss, destruction or other
 damage ("integrity and confidentiality")
+
+== Article 6: Lawfulness of processing
+
+Data processing is *lawful* if at least one of the following applies:
+
+. the data subject has given <<consent,consent>> to the processing of their personal data for a specific purpose
+. processing is necessary to *fulfill a contract* with the data subject
+. processing is *requested by the data subject* prior to entering into a contract
+. processing is necessary to comply with the controller's *legal obligations*
+footnoteref:[art6-2,The conditions for such processing are specified by European Union law;
+Member States may introduce more specific requirements.]
+. processing is necessary to protect the *vital interests of the data subject*
+. processing is necessary to carry out an action *in the public interest* footnoteref:[art6-2]
+. processing is necessary to *exercise an official authority* of the controller footnoteref:[art6-2]
+. processing is necessary to pursue the interests of the controller or of a third party,
+given that these interests do not infringe on the fundamental rights of the data subject,
+*in particular, when the data subject is a child*.
+.. This does not apply to processing carried out by public authorities.
+
+If data processing occurs for purposes other than that for which the personal data was initially collected,
+and *is not based on consent of the data subject* or on European Union or Member State law,
+the controller *must take into account* (among other things) the following,
+in order to determine whether the processing is compatible:
+
+. any link between *the initial purpose* and the intended further processing
+. the context of the data collection
+. whether *"special personal data"* (see <<art9, Article 9>>) is processed
+. whether personal data related to criminal convictions or offenses (see <<art10,Article 10>>) is processed
+. *any possible consequences* of the intended further processing
+. *any appropriate safeguards*; this includes *encryption* or *<<pseudonymization,pseudonymization>>*
