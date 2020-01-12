@@ -371,3 +371,15 @@ If personal data is processed for *research purposes*, the data subject may obje
 These rights must be *explicitly brought to the attention of the data subject* and must be displayed *clearly and separately* from any other information.
 
 Data subjects may exercise their right to object by automated means (see <<information-society-service,information society services>>).
+
+[#art22]
+== Article 22: Automated individual decision-making, including profiling
+
+The data subject has the right to not be subject to *decisions based solely on automatic processing* that significantly affect them (including <<profiling,profiling>>), unless:
+
+. the decision is *necessary for the fulfillment of a contract* between the data subject and the controller
+. the decision is *authorized by European Union or Member State law*
+. the automatic processing is based on the data subject's <<art6,explicit consent>>
+
+given that these decisions are *not based on <<art9, special categories>> of personal data* and that
+*sufficient safeguards are in place* to protect the data subject's rights, freedoms and legitimate interests.
