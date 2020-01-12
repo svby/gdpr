@@ -435,3 +435,8 @@ Approved <<art42,certification mechanisms>> may be used to demonstrate Regulatio
 Multiple controllers that jointly determine the purposes and means of processing are considered *<<controller,joint controllers>>*. They must determine *their respective responsibilities* for compliance with the GDPR, especially regarding *the rights of the data subject under Articles <<art13,13>> and <<art14,14>>*.
 
 Data subjects may exercise their rights in respect of and against each joint controller individually.
+
+[#art27]
+== Article 27: Representatives of controllers or processors not established in the Union
+
+Controllers and processors established outside the European Union to which <<art3,Article 3>> applies *must designate a representative within the European Union*, unless processing is not regular, does not involve <<art9,special categories>> of data or <<art10,data relating to criminal convictions and offenses>>, is unlikely to be a risk to the rights of natural persons, or is carried out by a public authority. The representative *must be established in one of the Member States where data subjects are located*, and must be *mandated by the controller or processor* to be addressed in addition to *or instead of* the controller or processor by <<art4-supervisory-authority,supervisory authorities>> and data subjects.
