@@ -534,3 +534,14 @@ This information must be documented to verify Regulation compliance.
 If it is not possible to provide all information at once, *it may be provided in phases without undue further delay*.
 
 Processors must notify their respective controller *without undue delay* after discovering a data breach.
+
+[#art34]
+== Article 34: Communication of a personal data breach to the data subject
+
+If a personal data breach *is likely to result in a high risk to the rights of affected data subjects*, the controller must inform affected data subjects *without undue delay*, using *clear and plain language*, containing all information as specified in <<art33,Article 33>>, excepting the nature of the data breach itself.
+
+The data subject is not required to be informed of a data breach if at least one of the following applies:
+
+. the controller has employed appropriate techniques to ensure that unauthorized reading of the affected data is impossible (e.g. encryption)
+. the controller has ensured that the aforementioned "high risk" is no longer present
+. informing the data subject would involve a disproportionate effort; in this case, a more effective mode of communication may be used
