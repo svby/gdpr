@@ -113,6 +113,7 @@ footnote:[https://uk.practicallaw.thomsonreuters.com/w-014-8183[Practical Law: g
 binding corporate rules::
 data protection policies which are followed by a controller or processor established in a Member State for *transfers of personal data to a controller or processor in a third country* within a group of undertakings.
 
+[#art4-supervisory-authority]
 supervisory authority::
 see <<art51,Article 51>>
 
@@ -163,6 +164,7 @@ Data processing is *lawful* if at least one of the following applies:
 . processing is necessary to protect the *vital interests of the data subject*
 . processing is necessary to carry out an action *in the public interest* footnoteref:[art6-2]
 . processing is necessary to *exercise an official authority* of the controller footnoteref:[art6-2]
+[#art6-interests]
 . processing is necessary to pursue the interests of the controller or of a third party, given that these interests do not infringe on the fundamental rights of the data subject, *in particular when the data subject is a child*.
 .. This does not apply to processing carried out by public authorities.
 
@@ -241,4 +243,18 @@ Controllers must provide information on the status of <<art15,requests made unte
 
 Any information provided and actions taken under the aforementioned articles must be available *free of charge*, unless the requests are demonstrated to be manifestly *unfounded or excessive* (i.e. repetitive), the controller may charge *a reasonable fee* or refuse to act on the request. If the controller has *reasonable doubts* about the identity of the requester, they may *request additional information*.
 
+[#art13]
+== Article 13: Information to be provided where personal data are collected from the data subject
 
+When personal data is obtained, if they have not already done so, the controller must provide the following information:
+
+. the *identity and contact details of the controller*, and, if applicable, of its representative
+. the contact details of the *<<art37,data protection officer>>*, if applicable
+. the *<<art5,purposes>> and <<art6,legal basis>> of the processing*
+. the *<<art6-interests,legitimate interests>>* of the controller
+. where applicable, *any intention by the controller to transfer personal data to a third country or international organisation* and of any relevant <<art45,adequacy decision>>, or in the case of transfers to which Articles <<art46,46>>, <<art47,47>> and <<art49,49>>, *a reference to the appropriate safeguards*.
+. how long the personal data will be stored
+. the rights of the data subject to *submit an information or erasure request*, to *data portability*,footnote:[https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability[UK Information Commissioner’s Office: Right to data portability]] and to *withdraw consent or object to processing* at any time; withdrawal of consent does not affect the lawfulness of processing prior to the withdrawal.
+. the right to file a complaint with a <<art4-supervisory-authority,supervisory authority>>
+. *whether the acquisition of personal data is a contractual requirement*, and the consequences if it is not provided
+. whether the controller intends to further process the personal data <<art5,for another purpose>>
