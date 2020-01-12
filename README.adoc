@@ -579,3 +579,15 @@ The data protection officer is to be properly *involved in all issues* related t
 Data protection officers must report directly to the highest level of management of the controller or processor and *may not be dismissed or penalized for performing their tasks* and *may not receive instructions* regarding the completion of their tasks, and are *bound by confidentiality* in accordance with European Union or Member State law.
 
 Data subjects may contact the data protection officer directly *regarding all issues related to the processing of their personal data and their rights* under the GDPR.
+
+[#art39]
+== Article 39: Tasks of the data protection officer
+
+Data protection officers must have at least the following tasks:
+
+. advising the controller and/or processor and any relevant employees of said entities
+. advising the controller and/or processor regarding the data protection impact assessment in accordance with <<art35,Article 35>>
+. *monitoring compliance with the GDPR*, with other European Union or Member State data protection laws, and with the policies of the controller and/or processor
+. cooperating with and *acting as the contact point* for the <<art4-supervisory-authority,supervisory authority>> on issues related to processing (see <<art36,Article 36>>) or regarding any other appropriate matter
+
+Data protection officers should *take into account any possible risk associated with data processing* while fulfilling their obligations.
