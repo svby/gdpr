@@ -86,6 +86,7 @@ an entity other than the data subject, controller, or processor which is authori
 consent::
 *freely given, specific, informed and unambiguous* indication that the data subject agrees to have their personal data processed
 
+[#personal-data-breach]
 personal data breach::
 a breach of security leading to *the destruction, loss, alteration, unauthorized disclosure of or access to* processed personal data
 
@@ -514,6 +515,22 @@ Controllers and processors must implement appropriate *technical and organizatio
 . *restoration of availability* and access to personal data in the event of a technical incident
 . regularly testing and evaluating the effectiveness of security measures
 
-The risks presented by data processing should be taken into account when determining an appropriate level of security; these include *accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to personal data*.
+The risks presented by data processing should be taken into account when determining an appropriate level of security; these include *accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to personal data* (_cf._ <<personal-data-breach,personal data breach>>).
 
 Adherence to <<art40,approved codes of conduct>> or <<art42,approved certification mechanisms>> may be used to demonstrate Regulation compliance.
+
+[#art33]
+== Article 33: Notification of a personal data breach to the supervisory authority
+
+In the event of a <<personal-data-breach,personal data breach>>, the controller *must notify the <<art4-supervisory-authority,supervisory authority>>, without undue delay* (within 72 hours after discovery) in accordance with <<art55,Article 55>>, of the following, unless the data breach is *unlikely to result in a risk to the rights of affected data subjects*:
+
+. *the nature of the personal data breach*, including the categories & number of data subjects, and categories & number of personal data records, affected.
+. *the contact details of the <<art37,data protection officer>>*, or other contact information where more information is available
+. any likely consequences of the data breach
+. any measures taken or to be taken by the controller to address the data breach
+
+This information must be documented to verify Regulation compliance.
+
+If it is not possible to provide all information at once, *it may be provided in phases without undue further delay*.
+
+Processors must notify their respective controller *without undue delay* after discovering a data breach.
