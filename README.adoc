@@ -116,3 +116,18 @@ a paid service provided electronically, upon request by the recipient, for the p
 data (see Article 1(1) of https://eur-lex.europa.eu/eli/dir/2015/1535/oj[Directive (EU) 2015/1535])
 *international organization*::
 an organization and its subordinates governed by international law
+
+[#art5]
+== Article 5: Principles relating to processing of personal data
+
+The controller is responsible ("accountability") for ensuring that personal data is:
+
+. *lawfully, fairly and transparently* processed ("lawfulness, fairness and transparency").
+. collected for *specific, explicit and legitimate* purposes
+. *relevant* and *limited* to the specified purpose ("data minimization")
+. accurate and kept up to date; inaccurate personal data *must be erased or updated without delay* ("accuracy")
+. suitably anonymized; data subjects *must not be identifiable for longer than necessary*
+.. Personal data may be archived for longer periods *in the public interest or for research purposes*
+(see <<art89,Article 89>>) with the appropriate privacy safeguards
+. *appropriately secured*; this includes protection against unauthorized access and data loss, destruction or other
+damage ("integrity and confidentiality")
