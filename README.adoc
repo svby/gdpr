@@ -591,3 +591,32 @@ Data protection officers must have at least the following tasks:
 . cooperating with and *acting as the contact point* for the <<art4-supervisory-authority,supervisory authority>> on issues related to processing (see <<art36,Article 36>>) or regarding any other appropriate matter
 
 Data protection officers should *take into account any possible risk associated with data processing* while fulfilling their obligations.
+
+[#art40]
+== Article 40: Codes of conduct
+
+=== TODO
+
+[#art41]
+== Article 41: Monitoring of approved codes of conduct
+
+_See also <<art40,Article 40>>._
+
+=== TODO
+
+[#art42]
+== Article 42: Certification
+
+=== TODO
+
+[#art43]
+== Article 43: Certification bodies
+
+_See also <<art40,Article 42>>._
+
+=== TODO
+
+[#art44]
+== Article 44: General principle for transfers
+
+Any transfer of personal data that is currently, or will be, undergoing processing after transfer to a third country or to an international organization *may only take place if the conditions laid down in Chapter V of the GDPR* (Articles <<art44,44>>, <<art45,45>>, <<art46,46>>, <<art47,47>>, <<art48,48>>, <<art49,49>> and <<art50,50>>) *are complied with* by the controller and processor, *including for onward transfers of personal data* from the third country or an international organization to another third country or to another internat­ional organization.
