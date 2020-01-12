@@ -321,7 +321,7 @@ The data subject has the right to request *erasure of personal data* from the co
 . the personal data *has been unlawfully processed*
 . the personal data must be erased to comply with European Union or Member State law
 
-If the personal data has been made public by the controller, and is obliged by the aforementioned conditions to erase the data, the controller *must make a reasonable effort* to inform other controllers with are processing said data that the data subject has requested its erasure.
+If the personal data has been made public by the controller, and is obliged by the aforementioned conditions to erase the data, the controller *must make a reasonable effort* to <<art19,inform other controllers>> which are processing said data that the data subject has requested its erasure.
 
 These conditions *do not apply* if:
 
@@ -343,3 +343,8 @@ Restriction of processing is an alternative to <<art17,erasure>>; the data subje
 If processing of personal data has been restricted, said data may only be processed *with the consent of the data subject*, for *the establishment, exercise or defense of legal claims*, for the protection of the rights of another natural or legal person, or for purposes that are in the public interest.
 
 The data subject must be informed by the controller prior to the lifting of restriction of processing.
+
+[#art19]
+== Article 19: Notification obligation regarding rectification or erasure of personal data or restriction of processing
+
+The controller must inform *all recipients of personal data* of any relevant <<art16,rectification>>, <<art17,erasure>>, or <<art18,restriction of processing>> requests made by the data subject. If the data subject requests it, they must additionally inform the data subject about said recipients.
