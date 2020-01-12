@@ -414,4 +414,16 @@ All such legislation must include:
 
 *The controller is responsible for taking steps to appropriately ensure that all processing is performed in accordance with the GDPR*; this includes the application of appropriate data protection policies.
 
-Adherence to <<art40,approved codes of conduct>> or <<art42,certification mechanisms>> may be used to demonstrate Regulation compliance.
+Adherence to <<art40,approved codes of conduct>> or <<art42,approved certification mechanisms>> may be used to demonstrate Regulation compliance.
+
+[#art25]
+== Article 25: Data protection by design and by default
+
+[quote]
+____
+Taking into account the state of the art, the cost of implementation and the nature, scope, context and purposes of processing as well as the risks ... for rights and freedoms of natural persons posed by the processing, *the controller shall ... implement appropriate ... measures, such as pseudonymisation, which are designed to implement data-protection principles, such as data minimisation, in an effective manner* ... in order to meet the requirements of this Regulation and protect the rights of data subjects.
+
+The controller shall implement appropriate ... measures for ensuring that, by default, only personal data which are *necessary for each specific purpose of the processing* are processed. That obligation applies to the amount of personal data collected, the extent of their processing, the period of their storage and their accessibility. In particular, *such measures shall ensure that by default personal data are not made accessible without the individual's intervention* to an indefinite number of natural persons.
+____
+
+Approved <<art42,certification mechanisms>> may be used to demonstrate Regulation compliance.
