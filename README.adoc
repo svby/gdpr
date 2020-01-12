@@ -228,3 +228,9 @@ or Member State law, or *rules established by national competent bodies*
 
 Member States may introduce more specific restrictions regarding the processing of <<genetic-data,genetic>>,
 biometric and health data.
+
+[#art10]
+== Article 10: Processing of personal data relating to criminal convictions and offenses
+
+Processing of personal data relating to criminal convictions and offenses may only be carried out *with the appropriate safeguards*, and must occur *under the control of an official authority*, or when it is otherwise authorized
+by European Union or Member State law.
