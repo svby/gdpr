@@ -358,3 +358,16 @@ The data subject has the right to *obtain the personal data* they have provided 
 . the data processing is automated
 
 The right to data portability *<<art15,must not adversely affect the rights and freedoms of others>>*.
+
+[#art21]
+== Article 21: Right to object
+
+The data subject has the right to *object to processing* which is *"carried out in the public interest" or for the purposes of the controller's legitimate interests* <<art6,as specified in Article 6>>; the controller must cease processing of personal data unless it can demonstrate *compelling legitimate grounds* for the processing which override the rights and freedoms of the data subject.
+
+If personal data is processed for _direct marketing_, the data subject may object to processing of all related personal data, *including <<profiling,profiling>>*; the controller must then stop *all processing of said personal data* for direct marketing purposes.
+
+If personal data is processed for *research purposes*, the data subject may object to processing unless it is a necessary task *carried out in the public interest*.
+
+These rights must be *explicitly brought to the attention of the data subject* and must be displayed *clearly and separately* from any other information.
+
+Data subjects may exercise their right to object by automated means (see <<information-society-service,information society services>>).
