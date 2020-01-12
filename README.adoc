@@ -114,6 +114,7 @@ a supervisory authority *concerned by* the processing of personal data because:
 in multiple Member States
 *relevant and reasoned objection*::
 an objection regarding whether the GDPR has been infringed upon
+[#information-society-service]
 *information society service*::
 a paid service provided electronically, upon request by the recipient, for the processing and storage of
 data (see Article 1(1) of https://eur-lex.europa.eu/eli/dir/2015/1535/oj[Directive (EU) 2015/1535])
@@ -144,8 +145,7 @@ Data processing is *lawful* if at least one of the following applies:
 . processing is necessary to *fulfill a contract* with the data subject
 . processing is *requested by the data subject* prior to entering into a contract
 . processing is necessary to comply with the controller's *legal obligations*
-footnoteref:[art6-2,The conditions for such processing are specified by European Union law;
-Member States may introduce more specific requirements.]
+footnoteref:[art6-2,The conditions for such processing are specified by European Union law; Member States may introduce more specific requirements.]
 . processing is necessary to protect the *vital interests of the data subject*
 . processing is necessary to carry out an action *in the public interest* footnoteref:[art6-2]
 . processing is necessary to *exercise an official authority* of the controller footnoteref:[art6-2]
@@ -179,3 +179,14 @@ Consent should not be "bundled up as a condition of service", unless it is *abso
 footnote:[https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/consent/what-is-valid-consent[UK Information Commissioner's Office: What is valid consent?]];
 if consent is required as part of the conditions for a contract, but *is not absolutely necessary* for its fulfillment,
 it is not considered freely given.
+
+[#art8]
+== Article 8: Conditions applicable to child's consent in relation to information society services
+
+_See also <<information-society-service,information society services>>._
+
+If the data subject is a child, and has consented to the processing of their personal data, said processing is legal if:
+
+. the data subject is at least 16 years old footnote:[Member States may provide lower ages, provided that said age is not below 13 years.]
+. consent has been given by the child's legal guardian
+.. The controller must *make reasonable efforts* to verify that any given consent has been properly authorized.
