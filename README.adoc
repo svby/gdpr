@@ -67,10 +67,11 @@ the processing of personal data in order to prevent identification of the respec
 filing system::
 a structured, accessible and identifiable set of personal data
 
-[#controller]
+[#art4-controller]
 controller::
 an entity which, _alone or jointly with others_, determines the *purposes and means* of the processing of personal data
 
+[#art4-processor]
 processor::
 an entity which <<processing,processes>> personal data on behalf of a controller
 
@@ -240,7 +241,7 @@ If a controller demonstrably is not in a position to be able to identify the dat
 [#art12]
 == Article 12: Transparent information, communication and modalities for the exercise of the rights of the data subject
 
-All processed personal data referred to by Articles <<art13,13>>, <<art14,14>>, <<art15,15>>, <<art16,16>>, <<art17,17>>, <<art18,18>>, <<art19,19>>, <<art20,20>>, <<art21,21>>, <<art22,22>>, and <<art34,34>> must be provided (in writing, orally, or by other means) to the data subject in a *concise, transparent, intelligible and easily accessible form*, particularly for *any information addressed to a child*. Controllers must facilitate the exercise of data subjects' rights according to Articles 15–22, unless they <<art11-2,demonstrably cannot identify the data subject>>.
+All processed personal data referred to by Articles <<art13,13>>, <<art14,14>>, <<art15,15>>, <<art16,16>>, <<art17,17>>, <<art18,18>>, <<art19,19>>, <<art20,20>>, <<art21,21>>, <<art22,22>> and <<art34,34>> must be provided (in writing, orally, or by other means) to the data subject in a *concise, transparent, intelligible and easily accessible form*, particularly for *any information addressed to a child*. Controllers must facilitate the exercise of data subjects' rights according to Articles 15–22, unless they <<art11-2,demonstrably cannot identify the data subject>>.
 
 Controllers must provide information on the status of <<art15,requests made unter Articles 15–22>> *without undue delay*; this must occur *within one month* of the receipt of the request. If the controller does not take action, they must likewise notify the data subject within one month and inform them of the *reasons for not taking action* and of any possible *legal remedies*.
 
@@ -432,7 +433,7 @@ Approved <<art42,certification mechanisms>> may be used to demonstrate Regulatio
 [#art26]
 == Article 26: Joint controllers
 
-Multiple controllers that jointly determine the purposes and means of processing are considered *<<controller,joint controllers>>*. They must determine *their respective responsibilities* for compliance with the GDPR, especially regarding *the rights of the data subject under Articles <<art13,13>> and <<art14,14>>*.
+Multiple controllers that jointly determine the purposes and means of processing are considered *<<art4-controller,joint controllers>>*. They must determine *their respective responsibilities* for compliance with the GDPR, especially regarding *the rights of the data subject under Articles <<art13,13>> and <<art14,14>>*.
 
 Data subjects may exercise their rights in respect of and against each joint controller individually.
 
@@ -440,3 +441,28 @@ Data subjects may exercise their rights in respect of and against each joint con
 == Article 27: Representatives of controllers or processors not established in the Union
 
 Controllers and processors established outside the European Union to which <<art3,Article 3>> applies *must designate a representative within the European Union*, unless processing is not regular, does not involve <<art9,special categories>> of data or <<art10,data relating to criminal convictions and offenses>>, is unlikely to be a risk to the rights of natural persons, or is carried out by a public authority. The representative *must be established in one of the Member States where data subjects are located*, and must be *mandated by the controller or processor* to be addressed in addition to *or instead of* the controller or processor by <<art4-supervisory-authority,supervisory authorities>> and data subjects.
+
+[#art28]
+== Article 28: Processor
+
+_See also <<art4-processor,processor>> (<<art4,Article 4>>)._
+
+Controllers must only make use of processors that provide *sufficient guarantees* that processing will meet the requirements of the GDPR and protect the rights of the data subject.
+
+Processors *may not delegate processing to another processor* without the authorization of the responsible controller.
+
+Processing of personal data by a processor is governed by a binding, written contract between the controller and processor, or between a processor and a subordinate processor, that specifies the *purpose and means of the processing*; such a contract must specify that the processor shall:
+
+. process personal data *only when instructed to do so by the controller*, unless required to do so by European Union or Member State law
+. ensure that persons authorized to process the data *have committed themselves to confidentiality*
+. *appropriately assist the controller with responding to requests for exercising the data subject's rights* (see Articles <<art15,15>>, <<art16,16>>, <<art17,17>>, <<art18,18>>, <<art19,19>>, <<art20,20>>, <<art21,21>> and <<art22,22>>) and with compliance with Articles <<art32,32>>, <<art33,33>>, <<art34,34>>, <<art35,35>> and <<art36,36>>
+. *delete or return all personal data to the controller* when processing is no longer required, if requested by the controller, and deletes any existing copies unless European Union or Member State law requires said copies to be retained
+. *make all information necessary to demonstrate GDPR compliance available* to the controller
+. *allow for and contribute to audits* conducted by the controller or by a third party
+. immediately inform the controller *if an instruction violates the GDPR* or other European Union or Member State law
+
+Adherence to <<art40,approved codes of conduct>> or <<art42,approved certification mechanisms>> may be used to demonstrate Regulation compliance.
+
+The European Commission or a <<art4-supervisory-authority,supervisory authority>> may offer or adopt *standard contractual clauses* footnote:[https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en[European Commission: Standard Contractual Clauses]] that can be used as a basis for a contract between the controller and processor.
+
+*If a processor violates the GDPR by determining the purposes and/or means of processing, it is considered a controller for the purposes of that processing*.
