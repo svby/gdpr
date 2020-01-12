@@ -55,6 +55,7 @@ any operation performed on personal data, regardless of whether it is automated;
 restriction of processing::
 the marking of stored personal data so as to limit its future processing
 
+[#profiling]
 profiling::
 automated processing of personal data to evaluate personal aspects of the data subject; this includes the analysis or prediction of the subject's performance, economic situation, health, interests, location, etc.
 
@@ -75,6 +76,7 @@ an entity which <<processing,processes>> personal data on behalf of a controller
 recipient::
 an entity to which personal data is provided; public authorities which receive personal data as part of an inquiry *are not considered recipients* but must comply with applicable data protection rules
 
+[#third-party]
 third party::
 an entity other than the data subject, controller, or processor which is authorized to process personal data
 
@@ -251,10 +253,35 @@ When personal data is obtained, if they have not already done so, the controller
 . the *identity and contact details of the controller*, and, if applicable, of its representative
 . the contact details of the *<<art37,data protection officer>>*, if applicable
 . the *<<art5,purposes>> and <<art6,legal basis>> of the processing*
-. the *<<art6-interests,legitimate interests>>* of the controller
+. the *<<art6-interests,legitimate interests>>* of the controller or of a <<third-party,third party>>
 . where applicable, *any intention by the controller to transfer personal data to a third country or international organisation* and of any relevant <<art45,adequacy decision>>, or in the case of transfers to which Articles <<art46,46>>, <<art47,47>> and <<art49,49>>, *a reference to the appropriate safeguards*.
 . how long the personal data will be stored
-. the rights of the data subject to *submit an information or erasure request*, to *data portability*,footnote:[https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability[UK Information Commissioner’s Office: Right to data portability]] and to *withdraw consent or object to processing* at any time; withdrawal of consent does not affect the lawfulness of processing prior to the withdrawal.
+. the rights of the data subject to *submit an information or erasure request*, to *data portability*,footnoteref:[ico-portability, https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability[UK Information Commissioner’s Office: Right to data portability] ] and to *withdraw consent or object to processing* at any time; withdrawal of consent does not affect the lawfulness of processing prior to the withdrawal
 . the right to file a complaint with a <<art4-supervisory-authority,supervisory authority>>
 . *whether the acquisition of personal data is a contractual requirement*, and the consequences if it is not provided
 . whether the controller intends to further process the personal data <<art5,for another purpose>>
+
+[#art14]
+== Article 14: Information to be provided where personal data have not been obtained from the data subject
+
+When personal data has been obtained from a source other than the data subject, if they have not already done so, the controller must provide the following information:
+
+. the *identity and contact details of the controller*, and, if applicable, of its representative
+. the contact details of the *<<art37,data protection officer>>*, if applicable
+. the *<<art5,purposes>> and <<art6,legal basis>> of the processing*
+. the categories of the personal data
+. the recipients of the personal data, if applicable
+. where applicable, *any intention by the controller to transfer personal data to a third country or international organisation* and of any relevant <<art45,adequacy decision>>, or in the case of transfers to which Articles <<art46,46>>, <<art47,47>> and <<art49,49>>, *a reference to the appropriate safeguards*.
+. how long the personal data will be stored
+. the *<<art6-interests,legitimate interests>>* of the controller or of a <<third-party,third party>>
+. the rights of the data subject to *submit an information or erasure request*, to *data portability*,footnoteref:[ico-portability] and to *withdraw consent or object to processing* at any time; withdrawal of consent does not affect the lawfulness of processing prior to the withdrawal
+. the right to file a complaint with a <<art4-supervisory-authority,supervisory authority>>
+. *the source of the personal data*, and whether it came from publicly accessible sources
+. *whether <<profiling,profiling>>, automated processing or decision-making is involved*, and, if applicable, information about its operation and possible consequences
+. whether the controller intends to further process the personal data <<art5,for another purpose>>
+
+Controllers must provide data subjects with this information *without undue delay*; this must occur *within one month* of the processing of the personal data, unless:
+
+. informing the data subject would be *impossible, or involve a disproportionate effort*, *especially for archival or research purposes*; in these cases, the controller must ensure the data subjects' rights and freedoms are protected appropriately, including *making the information publicly available*.
+. obtaining or disclosure is *explicitly laid down by European Union or Member State law*
+. the personal data <<art5,must remain confidential>>
