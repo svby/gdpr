@@ -569,4 +569,13 @@ A <<group-of-undertakings,group of undertakings>> may appoint a single data prot
 
 Controllers, processors, and their respective representatives _may_ designate data protection officers *even if not otherwise required*.
 
-The data protection officer is designated on the basis of *professional qualities and expert knowledge of data protection law and practices* and the ability to perform the tasks specified by <<art39,Article 39>>. They may be a staff member of the controller or processor, or of an external entity bound by a service contract. The identity of the data protection officer must be provided to the <<art4-supervisory-authority,supervisory authority>>.
+The data protection officer is designated on the basis of *professional qualities and expert knowledge of data protection law and practices* and the ability to perform the tasks specified by <<art39,Article 39>>. They may be a staff member of the controller or processor, or of an external entity bound by a service contract. *The identity of the data protection officer must be published* and provided to the <<art4-supervisory-authority,supervisory authority>>.
+
+[#art38]
+== Article 38: Position of the data protection officer
+
+The data protection officer is to be properly *involved in all issues* related to the protection of personal data; the controller and processor are to support them in performing their <<art39,tasks>> and maintaining their expert knowledge by *providing necessary resources*, and must ensure that any extracurricular activities carried out by the data protection officer *do not result in a conflict of interest*.
+
+Data protection officers must report directly to the highest level of management of the controller or processor and *may not be dismissed or penalized for performing their tasks* and *may not receive instructions* regarding the completion of their tasks, and are *bound by confidentiality* in accordance with European Union or Member State law.
+
+Data subjects may contact the data protection officer directly *regarding all issues related to the processing of their personal data and their rights* under the GDPR.
