@@ -111,6 +111,7 @@ a natural or legal person established in the European Union who represents (see 
 enterprise::
 a natural or legal person engaged in an economic activity; this includes partnerships or associations
 
+[#group-of-undertakings]
 group of undertakings::
 a controlling *undertaking* and its controlled undertakings
 footnote:[https://uk.practicallaw.thomsonreuters.com/w-014-8183[Practical Law: group of undertakings]]
@@ -545,3 +546,27 @@ The data subject is not required to be informed of a data breach if at least one
 . the controller has employed appropriate techniques to ensure that unauthorized reading of the affected data is impossible (e.g. encryption)
 . the controller has ensured that the aforementioned "high risk" is no longer present
 . informing the data subject would involve a disproportionate effort; in this case, a more effective mode of communication may be used
+
+[#art35]
+== Article 35: Data protection impact assessment
+
+=== TODO
+
+[#art36]
+== Article 36: Prior consultation
+
+=== TODO
+
+[#art37]
+== Article 37: Designation of the data protection officer
+
+The controller and processor must designate a data protection officer whenever:
+
+. processing is carried out by a public authority, excepting courts acting in their judicial capacity
+. the core activities of the controller or processor consist of *large-scale processing operations* which require regular and systematic monitoring, or of processing of <<art9, special categories>> of personal data or <<art10,data relating to criminal convictions and offenses>>.
+
+A <<group-of-undertakings,group of undertakings>> may appoint a single data protection officer, provided that they are *easily accessible from each establishment*; in the case of a public authority, a single data protection officer may likewise be designated for several such authorities.
+
+Controllers, processors, and their respective representatives _may_ designate data protection officers *even if not otherwise required*.
+
+The data protection officer is designated on the basis of *professional qualities and expert knowledge of data protection law and practices* and the ability to perform the tasks specified by <<art39,Article 39>>. They may be a staff member of the controller or processor, or of an external entity bound by a service contract. The identity of the data protection officer must be provided to the <<art4-supervisory-authority,supervisory authority>>.
