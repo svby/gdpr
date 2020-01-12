@@ -67,8 +67,9 @@ the processing of personal data in order to prevent identification of the respec
 filing system::
 a structured, accessible and identifiable set of personal data
 
+[#controller]
 controller::
-an entity which, alone or jointly with others, determines the *purposes and means* of the processing of personal data
+an entity which, _alone or jointly with others_, determines the *purposes and means* of the processing of personal data
 
 processor::
 an entity which <<processing,processes>> personal data on behalf of a controller
@@ -427,3 +428,10 @@ The controller shall implement appropriate ... measures for ensuring that, by de
 ____
 
 Approved <<art42,certification mechanisms>> may be used to demonstrate Regulation compliance.
+
+[#art26]
+== Article 26: Joint controllers
+
+Multiple controllers that jointly determine the purposes and means of processing are considered *<<controller,joint controllers>>*. They must determine *their respective responsibilities* for compliance with the GDPR, especially regarding *the rights of the data subject under Articles <<art13,13>> and <<art14,14>>*.
+
+Data subjects may exercise their rights in respect of and against each joint controller individually.
