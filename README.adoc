@@ -383,3 +383,28 @@ The data subject has the right to not be subject to *decisions based solely on a
 
 given that these decisions are *not based on <<art9, special categories>> of personal data* and that
 *sufficient safeguards are in place* to protect the data subject's rights, freedoms and legitimate interests.
+
+[#art23]
+== Article 23: Restrictions
+
+European Union or Member State law may restrict the scope of any obligations and rights provided by Articles <<art5,5>>, <<art12,12>>, <<art13,13>>, <<art14,14>>, <<art15,15>>, <<art16,16>>, <<art17,17>>, <<art18,18>>, <<art19,19>>, <<art20,20>>, <<art21,21>>, <<art22,22>> and <<art34,34>> when such a restriction is necessary to safeguard:
+
+. *national and public security*
+. defense
+. the investigation, detection and prevention of *criminal offenses and breaches of ethics* and the execution of relevant penalties
+. important objectives of *general public interest to the European Union or a Member State*; this includes, among others, economic or financial interests, public health and social security
+. the *protection of judicial independence* and legal proceedings
+. a regulatory function connected to an official authority
+. *the protection of the data subject*, or of the rights and freedoms of others
+. the enforcement of civil law claims
+
+All such legislation must include:
+
+. the *<<art5,purpose>> of the processing*
+. the categories of the personal data
+. the *scope of the introduced restrictions*
+. any safeguards in place to *prevent unlawful access* to the personal data
+. the specification of the controller(s)
+. how long the personal data will be stored
+. any risks to the rights of data subjects
+. the right of data subjects to be informed about said restriction, *unless this would be detrimental to the effectiveness of the restriction*
