@@ -158,7 +158,6 @@ damage ("integrity and confidentiality")
 
 Data processing is *lawful* if at least one of the following applies:
 
-[#art6-consent]
 . the data subject has given <<consent,consent>> to the processing of their personal data for a specific purpose
 . processing is necessary to *fulfill a contract* with the data subject
 . processing is *requested by the data subject* prior to entering into a contract
@@ -182,7 +181,7 @@ If data processing occurs for purposes other than that for which the personal da
 [#art7]
 == Article 7: Conditions for consent
 
-If the lawfulness of data processing is *<<art6-consent,based on consent>>*, the controller *must be able to clearly demonstrate* that the data subject has freely consented to the processing of their personal data. Data subjects must be *clearly informed* when consent is required, and *must be allowed to withdraw their consent* at any time; withdrawal *must not be made any more difficult* than the initial request for consent.
+If the lawfulness of data processing is *<<art6,based on consent>>*, the controller *must be able to clearly demonstrate* that the data subject has freely consented to the processing of their personal data. Data subjects must be *clearly informed* when consent is required, and *must be allowed to withdraw their consent* at any time; withdrawal *must not be made any more difficult* than the initial request for consent.
 
 Consent should not be "bundled up as a condition of service", unless it is *absolutely necessary* footnote:[https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/consent/what-is-valid-consent[UK Information Commissioner's Office: What is valid consent?]]; if consent is required as part of the conditions for a contract, but *is not absolutely necessary* for its fulfillment, it is *not considered freely given*.
 
@@ -258,7 +257,7 @@ When personal data is obtained, if they have not already done so, the controller
 . the *<<art6-interests,legitimate interests>>* of the controller or of a <<third-party,third party>>
 . where applicable, *any intention by the controller to transfer personal data to a third country or international organisation* and of any relevant <<art45,adequacy decision>>, or in the case of transfers to which Articles <<art46,46>>, <<art47,47>> and <<art49,49>>, *a reference to the appropriate safeguards*.
 . how long the personal data will be stored
-. the rights of the data subject to *submit an <<art15,information>>, <<art16,rectification>> or <<art17,erasure request>>*, to *<<art18,restriction of processing>>* and *data portability*,footnoteref:[ico-portability, https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability[UK Information Commissioner’s Office: Right to data portability] ] and to *withdraw consent or <<art21,object to processing>>* at any time; withdrawal of consent does not affect the lawfulness of processing prior to the withdrawal
+. the rights of the data subject to *submit an <<art15,information>>, <<art16,rectification>> or <<art17,erasure request>>*, to *<<art18,restriction of processing>>* and *<<art20,data portability>>*,footnoteref:[ico-portability, https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability[UK Information Commissioner’s Office: Right to data portability] ] and to *withdraw consent or <<art21,object to processing>>* at any time; withdrawal of consent does not affect the lawfulness of processing prior to the withdrawal
 . the right to file a complaint with a <<art4-supervisory-authority,supervisory authority>>
 . *whether the acquisition of personal data is a contractual requirement*, and the consequences if it is not provided
 . whether the controller intends to further process the personal data <<art5,for another purpose>>
@@ -276,7 +275,7 @@ When personal data has been obtained from a source other than the data subject, 
 . where applicable, *any intention by the controller to transfer personal data to a third country or international organisation* and of any relevant <<art45,adequacy decision>>, or in the case of transfers to which Articles <<art46,46>>, <<art47,47>> and <<art49,49>>, *a reference to the appropriate safeguards*.
 . how long the personal data will be stored
 . the *<<art6-interests,legitimate interests>>* of the controller or of a <<third-party,third party>>
-. the rights of the data subject to *submit an <<art15,information>>, <<art16,rectification>> or <<art17,erasure request>>*, to *<<art18,restriction of processing>>* and *data portability*,footnoteref:[ico-portability]
+. the rights of the data subject to *submit an <<art15,information>>, <<art16,rectification>> or <<art17,erasure request>>*, to *<<art18,restriction of processing>>* and *<<art20,data portability>>*,footnoteref:[ico-portability]
 . the right to file a complaint with a <<art4-supervisory-authority,supervisory authority>>
 . *the source of the personal data*, and whether it came from publicly accessible sources
 . *whether <<profiling,profiling>>, automated processing or decision-making is involved* (see Article <<art22,22>>), and, if applicable, information about its operation and possible consequences
@@ -303,7 +302,8 @@ If requested, the controller *must inform the data subject* whether any personal
 . *whether <<profiling,profiling>>, automated processing or decision-making is involved* (see Article <<art22,22>>), and, if applicable, information about its operation and possible consequences
 . *what safeguards are in place to protect the <<art5,integrity and confidentiality>> of personal data*, if it has been transferred to a third country or to an international organization
 
-The controller must also <<art12-fee,provide a copy of the processed personal data>>.
+The controller must also <<art12-fee,provide a copy of the processed personal data>>;
+the right to obtain a copy *must not adversely affect the rights and freedoms of others*.
 
 [#art16]
 == Article 16: Right to rectification
@@ -348,3 +348,13 @@ The data subject must be informed by the controller prior to the lifting of rest
 == Article 19: Notification obligation regarding rectification or erasure of personal data or restriction of processing
 
 The controller must inform *all recipients of personal data* of any relevant <<art16,rectification>>, <<art17,erasure>>, or <<art18,restriction of processing>> requests made by the data subject. If the data subject requests it, they must additionally inform the data subject about said recipients.
+
+[#art20]
+== Article 20: Right to data portability
+
+The data subject has the right to *obtain the personal data* they have provided to a controller, and have it *freely transferred to another controller*, provided that:
+
+. the processing is <<art6,based on consent or on a contract>> to which the data subject is a party
+. the data processing is automated
+
+The right to data portability *<<art15,must not adversely affect the rights and freedoms of others>>*.
