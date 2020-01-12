@@ -234,3 +234,14 @@ biometric and health data.
 
 Processing of personal data relating to criminal convictions and offenses may only be carried out *with the appropriate safeguards*, and must occur *under the control of an official authority*, or when it is otherwise authorized
 by European Union or Member State law.
+
+[#art11]
+== Article 11: Processing which does not require identification
+
+If a controller does not require the identification of a data subject, they are *not required* to maintain or process
+additional information in order to identify the data subject to comply with the GDPR.
+
+If a controller demonstrably cannot identify the data subject, they must attempt to inform the data subject;
+Articles <<art16,16>>, <<art17,17>>, <<art18,18>>, <<art19,19>> and <<art20,20>> do not apply in such a situation,
+*unless the data subject provides additional identifying information* in order to exercise their rights under said
+articles.
