@@ -136,6 +136,7 @@ The controller is responsible ("accountability") for ensuring that personal data
 . *appropriately secured*; this includes protection against unauthorized access and data loss, destruction or other
 damage ("integrity and confidentiality")
 
+[#art6]
 == Article 6: Lawfulness of processing
 
 Data processing is *lawful* if at least one of the following applies:
@@ -190,3 +191,40 @@ If the data subject is a child, and has consented to the processing of their per
 . the data subject is at least 16 years old footnote:[Member States may provide lower ages, provided that said age is not below 13 years.]
 . consent has been given by the child's legal guardian
 .. The controller must *make reasonable efforts* to verify that any given consent has been properly authorized.
+
+[#art9]
+== Article 9: Processing of special categories of personal data
+
+Processing of personal data concerning:
+
+. racial or ethnic origin
+. political opinions
+. religious or philosophical beliefs
+. trade union membership
+. <<genetic-data,genetic>>, biometric and health data *for the purpose of identifying a natural person*
+. a natural person's *sex life or sexual orientation*
+
+*is prohibited*, unless at least one of the following applies:
+
+. the data subject has *explicitly given consent*, unless European Union or Member State law otherwise dictate that
+*the prohibition may not be lifted*
+. processing is necessary to carry out the obligations or execute specific rights of the controller or data subject
+related to *employment or social security and social protection law*, provided that it is authorized by European Union
+or Member State law, or by a *https://en.wikipedia.org/wiki/Collective_agreement[collective agreement]*
+in accordance with Member State law
+. processing is necessary *to protect the <<art6,vital interests>>* of the data subject
+. processing is carried out, with the appropriate safeguards, *as part of a non-profit organization's legitimate activities*, provided that the processing relates *only to the current or former members* of the organization, or to
+members that have *regular contact* with it; personal data must not be disclosed outside the scope of said organization without the consent of the data subject
+. processing relates to personal data that is *in the public domain* (has been manifestly made public by the
+data subject)
+. processing is necessary for *the establishment, exercise or defense of legal claims*, or when a court acts in its
+judicial capacity
+. processing is *in the public interest*, with the appropriate safeguards, in accordance with European Union
+or Member State law
+. processing is necessary for the purposes of *preventive or occupational medicine*,
+provided that the professional is *subject to confidentiality* (professional secrecy) under European Union
+or Member State law, or *rules established by national competent bodies*
+. processing is necessary for archiving or for research purposes, with the appropriate safeguards
+
+Member States may introduce more specific restrictions regarding the processing of <<genetic-data,genetic>>,
+biometric and health data.
