@@ -211,6 +211,7 @@ Processing of personal data concerning:
 
 *is prohibited*, unless at least one of the following applies:
 
+[#art9-exceptions]
 . the data subject has *explicitly given consent*, unless European Union or Member State law otherwise dictate that *the prohibition may not be lifted*
 . processing is necessary to carry out the obligations or execute specific rights of the controller or data subject related to *employment or social security and social protection law*, provided that it is authorized by European Union or Member State law, or by a *https://en.wikipedia.org/wiki/Collective_agreement[collective agreement]* in accordance with Member State law
 . processing is necessary *to protect the <<art6,vital interests>>* of the data subject
@@ -257,7 +258,7 @@ When personal data is obtained, if they have not already done so, the controller
 . the *<<art6-interests,legitimate interests>>* of the controller or of a <<third-party,third party>>
 . where applicable, *any intention by the controller to transfer personal data to a third country or international organisation* and of any relevant <<art45,adequacy decision>>, or in the case of transfers to which Articles <<art46,46>>, <<art47,47>> and <<art49,49>>, *a reference to the appropriate safeguards*.
 . how long the personal data will be stored
-. the rights of the data subject to *submit an <<art15,information>> or <<art16,erasure request>>*, to *data portability*,footnoteref:[ico-portability, https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability[UK Information Commissioner’s Office: Right to data portability] ] and to *withdraw consent or object to processing* at any time; withdrawal of consent does not affect the lawfulness of processing prior to the withdrawal
+. the rights of the data subject to *submit an <<art15,information>>, <<art16,rectification>> or <<art17,erasure request>>*, to *<<art18,restriction of processing>>* and *data portability*,footnoteref:[ico-portability, https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability[UK Information Commissioner’s Office: Right to data portability] ] and to *withdraw consent or object to processing* at any time; withdrawal of consent does not affect the lawfulness of processing prior to the withdrawal
 . the right to file a complaint with a <<art4-supervisory-authority,supervisory authority>>
 . *whether the acquisition of personal data is a contractual requirement*, and the consequences if it is not provided
 . whether the controller intends to further process the personal data <<art5,for another purpose>>
@@ -275,7 +276,7 @@ When personal data has been obtained from a source other than the data subject, 
 . where applicable, *any intention by the controller to transfer personal data to a third country or international organisation* and of any relevant <<art45,adequacy decision>>, or in the case of transfers to which Articles <<art46,46>>, <<art47,47>> and <<art49,49>>, *a reference to the appropriate safeguards*.
 . how long the personal data will be stored
 . the *<<art6-interests,legitimate interests>>* of the controller or of a <<third-party,third party>>
-. the rights of the data subject to *submit an <<art15,information>> or <<art16,erasure request>>*, to *data portability*,footnoteref:[ico-portability] and to *withdraw consent or object to processing* at any time; withdrawal of consent does not affect the lawfulness of processing prior to the withdrawal
+. the rights of the data subject to *submit an <<art15,information>>, <<art16,rectification>> or <<art17,erasure request>>*, to *<<art18,restriction of processing>>* and *data portability*,footnoteref:[ico-portability]
 . the right to file a complaint with a <<art4-supervisory-authority,supervisory authority>>
 . *the source of the personal data*, and whether it came from publicly accessible sources
 . *whether <<profiling,profiling>>, automated processing or decision-making is involved* (see Article <<art22,22>>), and, if applicable, information about its operation and possible consequences
@@ -296,10 +297,35 @@ If requested, the controller *must inform the data subject* whether any personal
 . the categories of the personal data
 . the recipients of the personal data, if applicable, especially those which are *international organizations* or are *located in third countries*
 . how long the personal data will be stored
-. the rights of the data subject to *submit a <<art16,rectification or erasure request>>*
+. the rights of the data subject to *submit a <<art16,rectification>> or <<art17,erasure request>>* and to *<<art18,restriction of processing>>*
 . the right to file a complaint with a <<art4-supervisory-authority,supervisory authority>>
 . *the source of the personal data*, and whether it came from publicly accessible sources, if <<art14,the data was not collected from the data subject>>
 . *whether <<profiling,profiling>>, automated processing or decision-making is involved* (see Article <<art22,22>>), and, if applicable, information about its operation and possible consequences
 . *what safeguards are in place to protect the <<art5,integrity and confidentiality>> of personal data*, if it has been transferred to a third country or to an international organization
 
 The controller must also <<art12-fee,provide a copy of the processed personal data>>.
+
+[#art16]
+== Article 16: Right to rectification
+
+The data subject has the right to request *rectification of personal data* and to *have incomplete personal data completed*, from the controller, without undue delay.
+
+[#art17]
+== Article 17: Right to erasure ("right to be forgotten")
+
+The data subject has the right to request *erasure of personal data* from the controller without undue delay; additionally, the controller is required to erase personal data without undue delay when:
+
+. the personal data is no longer necessary
+. the data subject *withdraws consent* (see Articles <<art6,6>>, <<art9,9>> and <<art13,13>>)
+. the data subject <<art21,objects to processing>>
+. the personal data *has been unlawfully processed*
+. the personal data must be erased to comply with European Union or Member State law
+
+If the personal data has been made public by the controller, and is obliged by the aforementioned conditions to erase the data, the controller *must make a reasonable effort* to inform other controllers with are processing said data that the data subject has requested its erasure.
+
+These conditions *do not apply* if:
+
+. processising is necessary to exercise *the right to freedom of expression and information*
+. processing is necessary to *comply with legal obligations*, to *exercise an official authority* of the controller, or for a task *carried out in the public interest* (see <<art9-exceptions,Article 9>>)
+. processing is necessary for archiving or for research purposes
+. processing is necessary for *the establishment, exercise or defense of legal claims*
