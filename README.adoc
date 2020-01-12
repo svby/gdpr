@@ -258,7 +258,7 @@ When personal data is obtained, if they have not already done so, the controller
 . the *<<art6-interests,legitimate interests>>* of the controller or of a <<third-party,third party>>
 . where applicable, *any intention by the controller to transfer personal data to a third country or international organisation* and of any relevant <<art45,adequacy decision>>, or in the case of transfers to which Articles <<art46,46>>, <<art47,47>> and <<art49,49>>, *a reference to the appropriate safeguards*.
 . how long the personal data will be stored
-. the rights of the data subject to *submit an <<art15,information>>, <<art16,rectification>> or <<art17,erasure request>>*, to *<<art18,restriction of processing>>* and *data portability*,footnoteref:[ico-portability, https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability[UK Information Commissioner’s Office: Right to data portability] ] and to *withdraw consent or object to processing* at any time; withdrawal of consent does not affect the lawfulness of processing prior to the withdrawal
+. the rights of the data subject to *submit an <<art15,information>>, <<art16,rectification>> or <<art17,erasure request>>*, to *<<art18,restriction of processing>>* and *data portability*,footnoteref:[ico-portability, https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability[UK Information Commissioner’s Office: Right to data portability] ] and to *withdraw consent or <<art21,object to processing>>* at any time; withdrawal of consent does not affect the lawfulness of processing prior to the withdrawal
 . the right to file a complaint with a <<art4-supervisory-authority,supervisory authority>>
 . *whether the acquisition of personal data is a contractual requirement*, and the consequences if it is not provided
 . whether the controller intends to further process the personal data <<art5,for another purpose>>
@@ -329,3 +329,17 @@ These conditions *do not apply* if:
 . processing is necessary to *comply with legal obligations*, to *exercise an official authority* of the controller, or for a task *carried out in the public interest* (see <<art9-exceptions,Article 9>>)
 . processing is necessary for archiving or for research purposes
 . processing is necessary for *the establishment, exercise or defense of legal claims*
+
+[#art18]
+== Article 18: Restriction of processing
+
+Restriction of processing is an alternative to <<art17,erasure>>; the data subject has the right to limit how their data is processed by requesting *restriction of processing* from the controller, provided that one of the following applies:
+
+. the accuracy of the personal data is contested by the data subject, enabling the controller to verify its accuracy
+. the processing is unlawful, but the data subject *objects to its erasure* and requests restriction of processing instead
+. the personal data is no longer necessary for the controller, but it is required by the data subject for *the establishment, exercise or defense of legal claims*
+. the data subject <<art21,objects to processing>>
+
+If processing of personal data has been restricted, said data may only be processed *with the consent of the data subject*, for *the establishment, exercise or defense of legal claims*, for the protection of the rights of another natural or legal person, or for purposes that are in the public interest.
+
+The data subject must be informed by the controller prior to the lifting of restriction of processing.
