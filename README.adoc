@@ -34,14 +34,15 @@ or to execute relevant penalties
 
 The GDPR *does not affect* the application of the
 https://eur-lex.europa.eu/eli/dir/2000/31/oj[2000 directive on electronic commerce]
-(specifically Articles 12–15).
+(see Articles 12–15).
 
 [#art3]
 == Article 3: Territorial scope
 
 The GDPR applies to:
 
-. the processing of personal data by *controllers and processors* established in the European Union,
+. the processing of personal data by *controllers and processors* established in the European Union
+(_cf._ <<main-establishment,main establishment>>),
 *regardless of the actual location of processing*
 . the processing of personal data by controllers and processors in any location where Member State law applies
 . the processing of personal data of *data subjects in the European Union* by controllers and processors
@@ -52,4 +53,66 @@ established elsewhere, if:
 [#art4]
 == Article 4: Definitions
 
-A *filing system* refers to any structured, accessible and identifiable set of personal data.
+*personal data*::
+any information relating to *an <<identifiable-natural-person,_identified or identifiable_ natural person*>>
+(the *data subject*)
+[#identifiable-natural-person]
+*identifiable natural person*::
+a natural person who can be *directly or indirectly* identified through use of a name, ID, location data, or other
+identifier specific to the person (see also: <<genetic-data,genetic data>>).
+[#processing]
+*processing*:: any operation performed on personal data, regardless of whether it is automated
+*restriction of processing*:: the marking of stored personal data so as to limit its future processing
+*profiling*:: automated processing of personal data to evaluate personal aspects of the data subject; this includes
+the analysis or prediction of the subject's performance, economic situation, health, interests, location, etc.
+*pseudonymization*:: the processing of personal data in order to prevent identification of the respective data subject
+without additional information; said additional information must be stored separately and adequately secured
+*filing system*:: a structured, accessible and identifiable set of personal data
+*controller*:: an entity which, alone or jointly with others, determines the *purposes and means* of the processing of
+personal data
+*processor*:: an entity which <<processing,processes>> personal data on behalf of a controller
+*recipient*:: an entity to which personal data is provided; public authorities which receive personal data as part of
+an inquiry *are not considered recipients* but must comply with applicable data protection rules
+*third party*:: an entity other than the data subject, controller, or processor which is authorized to process personal
+data
+*consent*:: *freely given, specific, informed and unambiguous* indication that the data subject agrees to have their
+personal data processed
+*personal data breach*:: a breach of security leading to *the destruction, loss, alteration, unauthorized disclosure of or access to* processed personal data
+[#genetic-data]
+*genetic data*::
+personal data relating to unique *inherited or acquired genetic characteristics* of a natural person,
+particularly that which results from an analysis of a biological sample
+*biometric data*::
+personal data resulting from technical processing, relating to physical, physiological or behavioral characteristics
+of a natural person; this includes facial images or fingerprints
+[#main-establishment]
+*main establishment* (controllers)::
+the establishment of the controller in the European Union where *the decisions on the purposes and means of processing*
+are made; by default, this is the place of central administration within the European Union
+*main establishment* (processors)::
+the establishment of the processor in the European Union where *the main processing activities* take place;
+by default, this is the place of central administration within the European Union
+*representative*:: a natural or legal person established in the European Union who represents (see <<art27,Article 27>>)
+a controller or processor
+*enterprise*:: a natural or legal person engaged in an economic activity; this includes partnerships or associations
+*group of undertakings*:: a controlling *undertaking* and its controlled undertakings
+footnote:[https://uk.practicallaw.thomsonreuters.com/w-014-8183[Practical Law: group of undertakings]]
+*binding corporate rules*:: data protection policies which are followed by a controller or processor
+established in a Member State for *transfers of personal data to a controller or processor in a third country*
+within a group of undertakings.
+*supervisory authority*:: see <<art51,Article 51>>
+*supervisory authority concerned*::
+a supervisory authority *concerned by* the processing of personal data because:
+
+. the controller or processor is established on the territory of the supervisory authority's Member State
+. data subjects in said Member State are (likely to be) substantially affected by said processing
+. a complaint has been filed with the supervisory authority
+*cross-border processing*:: personal data processing that involves data subjects or controllers/processors
+in multiple Member States
+*relevant and reasoned objection*::
+an objection regarding whether the GDPR has been infringed upon
+*information society service*::
+a paid service provided electronically, upon request by the recipient, for the processing and storage of
+data (see Article 1(1) of https://eur-lex.europa.eu/eli/dir/2015/1535/oj[Directive (EU) 2015/1535])
+*international organization*::
+an organization and its subordinates governed by international law
