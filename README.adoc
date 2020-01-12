@@ -229,4 +229,16 @@ Processing of personal data relating to criminal convictions and offenses may on
 
 If a controller does not require the identification of a data subject, they are *not required* to maintain or process additional information in order to identify the data subject to comply with the GDPR.
 
-If a controller demonstrably cannot identify the data subject, they must attempt to inform the data subject; Articles <<art16,16>>, <<art17,17>>, <<art18,18>>, <<art19,19>> and <<art20,20>> do not apply in such a situation, *unless the data subject provides additional identifying information* in order to exercise their rights under said articles.
+[#art11-2]
+If a controller demonstrably is not in a position to be able to identify the data subject, they must attempt to inform the data subject of this; Articles <<art16,16>>, <<art17,17>>, <<art18,18>>, <<art19,19>> and <<art20,20>> do not apply in such a situation, *unless the data subject provides additional identifying information* in order to exercise their rights under said articles.
+
+[#art12]
+== Article 12: Transparent information, communication and modalities for the exercise of the rights of the data subject
+
+All processed personal data referred to by Articles <<art13,13>>, <<art14,14>>, <<art15,15>>, <<art16,16>>, <<art17,17>>, <<art18,18>>, <<art19,19>>, <<art20,20>>, <<art21,21>>, <<art22,22>>, and <<art34,34>> must be provided (in writing, orally, or by other means) to the data subject in a *concise, transparent, intelligible and easily accessible form*, particularly for *any information addressed to a child*. Controllers must facilitate the exercise of data subjects' rights according to Articles 15–22, unless they <<art11-2,demonstrably cannot identify the data subject>>.
+
+Controllers must provide information on the status of <<art15,requests made unter Articles 15–22>> *without undue delay*; this must occur *within one month* of the receipt of the request. If the controller does not take action, they must likewise notify the data subject within one month and inform them of the *reasons for not taking action* and of any possible *legal remedies*.
+
+Any information provided and actions taken under the aforementioned articles must be available *free of charge*, unless the requests are demonstrated to be manifestly *unfounded or excessive* (i.e. repetitive), the controller may charge *a reasonable fee* or refuse to act on the request. If the controller has *reasonable doubts* about the identity of the requester, they may *request additional information*.
+
+
