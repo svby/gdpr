@@ -853,7 +853,9 @@ _See also <<art68,Article 68>>._
 [#art66]
 == Article 66: Urgency procedure
 
-=== TODO
+If a <<supervisory-authority-concerned,supervisory authority concerned>> considers that there is *an urgent need to act* to protect data subjects' rights, it may immediately adopt provisional measures on its own territory for a time period of *no longer than three months*; <<art68,the Board>> and the European Commission must be informed of such an act without delay. If the supervisory authority believes that said measures need to urgently be finalized, it may request an *urgent opinion* or *urgent binding decision* from the Board.
+
+The Board may approve said urgent opinion or binding decision by a simple majority of its members.
 
 [#art67]
 == Article 67: Exchange of information
