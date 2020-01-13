@@ -718,3 +718,17 @@ Each Member State must, *by law*, provide for:
 . necessary qualifications, rules, and procedures for the members of said supervisory authorities, including any applicable term limits for reappointment
 
 Members and staff of a supervisory authority are *bound by confidentiality both during and after their term of office*.
+
+[#art55]
+== Article 55: Competence
+
+Each supervisory authority is https://en.wikipedia.org/wiki/Competent_authority[competent] to exercise, *on the territory of its own Member State*, the powers conferred on it in accordance with the GDPR.
+
+[#art56]
+== Article 56: Competence of the lead supervisory authority
+
+CAUTION: This article does not apply *to processing _carried out by public authorities in the public interest_*, or *_to comply with legal obligations_*, as specified in Articles <<art6,6>> and <<art55,55>>.
+
+The <<art51,supervisory authority>> of the controller or processor's <<main-establishment,main establishment>> is authorized to act as the *lead supervisory authority* for any cross-border processing carried out by said controller or processor; however, such a supervisory authority is authorized to handle filed complaints *only if said note concerns the Member State in which it is established*. In such cases, the supervisory authority must inform the lead supervisory authority without delay.
+
+Within *three weeks from the time of receipt* of a complaint, the lead supervisory authority *must decide whether it will handle the case*, taking into account the rules for cooperation specified in <<art60,Article 60>>. If it decides not to handle the case, *the supervisory authority which informed it must handle the case instead*, as specified by Articles <<art61,61>> and <<art62,62>>.
