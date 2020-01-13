@@ -1047,3 +1047,13 @@ _See also: https://eur-lex.europa.eu/eli/dir/2002/58/2009-12-19[Privacy and Elec
 
 [quote,Article 96]
 International agreements involving the transfer of personal data to third countries or international organisations which were concluded by Member States prior to 24 May 2016, and which comply with Union law as applicable prior to that date, shall remain in force until amended, replaced or revoked.
+
+[#art97]
+== Article 97: Commission reports
+
+By 25 May 2020, and every four years afterwards, the European Commission must *submit and make public* a report on *the evaluation and review of the GDPR* to the European Parliament and the Council of the European Union.
+
+In particular, the European Commission must examine:
+
+. the application of Chapter V regarding the transfer of personal to third countries or international organizations (see Articles <<art44,44>>, <<art45,45>>, <<art46,46>>, <<art47,47>>, <<art48,48>>, <<art49,49>> and <<art50,50>>)
+. the application of Chapter VII regarding cooperation and consistency (see Articles <<art60,60>>, <<art61,61>>, <<art62,62>>, <<art63,63>>, <<art64,64>>, <<art65,65>>, <<art66,66>> and <<art67,67>>)
