@@ -910,3 +910,13 @@ The Chair has the following tasks:
 . to ensure the *timely performance of tasks* (see also <<art63,Article 63>>)
 
 The Board shall specify in its <<art72,rules of procedure>> the distribution of tasks between the Chair and deputy chairs.
+
+[#art75]
+== Article 75: Secretariat
+
+The Board must have a *secretariat* provided to it by the European Data Protection Supervisor, which is responsible for the following:
+
+. analytical, administrative and logistical support
+. day-to-day business of the Board; this includes the preparation and follow-up of meetings and the *preparation and publication of opinions and decisions* adopted by the Board
+. *communication between the members of the Board, <<art74,the Chair>>, and the European Commission*, and with other institutions and the public
+. the translation of relevant information
