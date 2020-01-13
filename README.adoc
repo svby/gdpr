@@ -848,7 +848,13 @@ _See also <<art68,Article 68>>._
 
 _See also <<art68,Article 68>>._
 
-=== TODO
+The Board may adopt a *binding decision by two-thirds supermajority* of its members when:
+
+. a <<supervisory-authority-concerned,supervisory authority concerned>> has raised an objection to a <<art60,draft decision>> by the lead supervisory authority
+. there are conflicting views on which supervisory authority concerned is competent for the <<main-establishment,main establishment>>
+. a competent supervisory authority does not request or follow the <<art64,opinion of the Board>>; the European Commission or any supervisory authority concerned may inform the Board of such matters
+
+Such binding decisions must be relayed to the European Commission and published on the website of the Board, and must be adopted within one month;footnote:[This can be extended by a further month by request if the subject matter is deemed sufficiently complex.] *they are binding on the lead supervisory authority and all supervisory authorities concerned*.
 
 [#art66]
 == Article 66: Urgency procedure
@@ -908,7 +914,7 @@ The Board must make public and forward its opinions and guidelines to the Europe
 
 _See also <<art68,Article 68>>._
 
-The Board must *prepare an annual report regarding the protection of the personal data of natural persons within the European Union* and in any relevant third countries or international organizations; this report must include a review of the application of the guidelines laid down by <<art70,Article 70>> and of any binding decisions made in accordance with <<art65,Article 65>>.
+The Board must *prepare an annual report regarding the protection of the personal data of natural persons within the European Union* and in any relevant third countries or international organizations; this report must include a review of the application of the guidelines laid down by <<art70,Article 70>> and of any *binding decisions* made in accordance with <<art65,Article 65>>.
 
 [#art72]
 == Article 72: Procedure
