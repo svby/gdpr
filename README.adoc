@@ -198,7 +198,7 @@ _See also <<information-society-service,information society services>>._
 
 If the data subject is a child, and has consented to the processing of their personal data, said processing is legal if:
 
-. the data subject is at least 16 years old footnote:[Member States may provide lower ages, provided that said age is not below 13 years.]
+. the data subject is at least 16 years old; Member States may provide lower ages, *provided that said age is not below 13 years*.
 . consent has been given by the child's legal guardian
 .. The controller must *make reasonable efforts* to verify that any given consent has been properly authorized.
 
@@ -246,6 +246,8 @@ If a controller demonstrably is not in a position to be able to identify the dat
 == Article 12: Transparent information, communication and modalities for the exercise of the rights of the data subject
 
 All processed personal data referred to by Articles <<art13,13>>, <<art14,14>>, <<art15,15>>, <<art16,16>>, <<art17,17>>, <<art18,18>>, <<art19,19>>, <<art20,20>>, <<art21,21>>, <<art22,22>> and <<art34,34>> must be provided (in writing, orally, or by other means) to the data subject in a *concise, transparent, intelligible and easily accessible form*, particularly for *any information addressed to a child*. Controllers must facilitate the exercise of data subjects' rights according to Articles 15–22, unless they <<art11-2,demonstrably cannot identify the data subject>>.
+
+A standardized set of *icons* may be used to *clearly and visibly present* the required information; the European Commission may adopt delegated acts (see <<art92,Article 92>>) to determine the procedures for providing said standardized icons.
 
 Controllers must provide information on the status of <<art15,requests made unter Articles 15–22>> *without undue delay*; this must occur *within one month* of the receipt of the request. If the controller does not take action, they must likewise notify the data subject within one month and inform them of the *reasons for not taking action* and of any possible *legal remedies*.
 
@@ -425,7 +427,7 @@ Adherence to <<art40,approved codes of conduct>> or <<art42,approved certificati
 [#art25]
 == Article 25: Data protection by design and by default
 
-[quote]
+[quote,Article 25]
 ____
 Taking into account the state of the art, the cost of implementation and the nature, scope, context and purposes of processing as well as the risks ... for rights and freedoms of natural persons posed by the processing, *the controller shall ... implement appropriate ... measures, such as pseudonymisation, which are designed to implement data-protection principles, such as data minimisation, in an effective manner* ... in order to meet the requirements of this Regulation and protect the rights of data subjects.
 
@@ -902,12 +904,14 @@ _See also <<art68,Article 68>>._
 [#art66]
 == Article 66: Urgency procedure
 
-=== TODO
+If a <<supervisory-authority-concerned,supervisory authority concerned>> considers that there is *an urgent need to act* to protect data subjects' rights, it may immediately adopt provisional measures on its own territory for a time period of *no longer than three months*; <<art68,the Board>> and the European Commission must be informed of such an act without delay. If the supervisory authority believes that said measures need to urgently be finalized, it may request an *urgent opinion* or *urgent binding decision* from the Board.
+
+The Board may approve said urgent opinion or binding decision by a simple majority of its members.
 
 [#art67]
 == Article 67: Exchange of information
 
-=== TODO
+The European Commission may adopt general implementing acts in order to specify conditions for the exchange of information between <<art51,supervisory authorities>> and between <<art51,supervisory authorities>> and <<art68,the Board>>.
 
 [#art68]
 == Article 68: European Data Protection Board
@@ -929,7 +933,26 @@ The Board *must act independently* when performing its tasks or exercising its p
 [#art70]
 == Article 70: Tasks of the Board
 
-=== TODO
+_See also <<art68,Article 68>>._
+
+The Board must ensure the consistent application of the GDPR, and shall:
+
+. advise the European Commission on issues related to personal data protection, and on procedures for the exchange of information between controllers, processors and <<art51,supervisory authorities>> for <<art47,binding corporate rules>>
+. *provide an opinion on <<art45,adequacy decisions>>*; the European Commission must provide the Board with all necessary resources for this task
+. *maintain a public register of decisions taken by supervisory authorities and courts* on issues of consistency (see Articles <<art63,63>>, <<art64,64>>, <<art65,65>>, <<art66,66>> and <<art67,67>>)
+. provide an opinion on <<art60, draft decisions of supervisory authorities>> in accordance with Articles <<art64,64>>, <<art65,65>> and <<art66,66>>
+. *issue guidelines and recommendations* on:
+.. procedures for removal of personal data (see also <<art17,Right to erasure>>)
+.. criteria and conditions for <<art22,profiling>>
+.. <<art34,handling personal data breaches>>, including *determination of what constitutes an "undue delay"* as specified in <<art33,Article 33>>
+.. data transfers *based on <<art47,binding corporate rules>>*, see also further criteria specified by <<art49,Article 49>>
+.. the setting of <<art83,administrative fines>>
+.. *common procedures for reporting infringements* of the Regulation
+.. creation of <<art40,common codes of conduct>> and <<art42,certification mechanisms>> (see also <<art43,Article 43>>)
+.. the standardized *icons* referred to in <<art12,Article 12>>
+. promote the cooperation and exchange of information and best practices between supervisory authorities
+
+The Board must make public and forward its opinions and guidelines to the European Commission and to the <<art93,committee>>.
 
 [#art71]
 == Article 71: Reports
@@ -1020,12 +1043,43 @@ Proceedings are deemed to be related where they are so closely connected that it
 [#art82]
 == Article 82: Right to compensation and liability
 
-=== TODO
+Any person who has suffered as a result of an infringement of the GDPR *has the right to receive compensation* from the controller or processor; processors are only liable for any damage caused if it has not complied with elements of the GDPR that specifically target processors, or if it has acted *without proper authorization from the controller*.
+
+If multiple controllers or processors are involved in the same processing and are responsible for any damage caused, *they must all be held liable* for said damage; each controller or processor is entitled to claim back their part of the compensation from the other controllers or processors involved.
 
 [#art83]
 == Article 83: General conditions for imposing administrative fines
 
-=== TODO
+<<art51,Supervisory authorities>> must  ensure that any *administrative fines* imposed for infringements of the GDPR are considered *effective, proportionate and dissuasive*.
+
+When deciding whether to impose an administrative fine, the supervisory authority must take into account:
+
+. the nature, scope or purpose of the processing, the number of data subjects affected, and the level of damage caused
+. any action taken by the controller or processor to mitigate the damage
+. the *degree of responsibility of the controller or processor*, taking into account measures implemented by them in accordance with Articles <<art25,25>> and <<art32,32>>
+. *any previous infringements* by the controller or processor
+. any cooperation with the supervisory authority to mitigate the damage
+. the categories of affected personal data
+. *the manner in which the infringement became known*
+. *previous compliance with supervisory powers specified in <<art58,Article 58>>*
+. adherence to <<art40,approved codes of conduct>> or <<art42,approved certification mechanisms>>
+. any other relevant factors
+
+Infringements of the following provisions are subject to administrative fines of *the greater of ten million Euro and 2% of the total worldwide annual turnover of the preceding year*, if applicable:
+
+. the basic obligations of the controller or processor (see Articles <<art8,8>>, <<art11,11>>, <<art25,25>>, <<art26,26>>, <<art27,27>>, <<art28,28>>, <<art29,29>>, <<art30,30>>, <<art31,31>>, <<art32,32>>, <<art33,33>>, <<art34,34>>, <<art35,35>>, <<art36,36>>, <<art37,37>>, <<art38,38>>, <<art39,39>>, <<art42,42>> and <<art43,43>>)
+. the obligations of the certification body (see Articles <<art42,42>> and <<art43,43>>)
+. the obligations of the monitoring body (see <<art41,Article 41>>)
+
+Infringements of the following provisions are subject to administrative fines of *the greater of twenty million Euro and 4% of the total worldwide annual turnover of the preceding year*, if applicable:
+
+. *basic principles for processing*, including conditions for consent (see Articles <<art5,5>>, <<art6,6>>, <<art7,7>> and <<art9,9>>)
+. data subjects' rights (see Articles <<art12,12>>, <<art13,13>>, <<art14,14>>, <<art15,15>>, <<art16,16>>, <<art17,17>>, <<art18,18>>, <<art19,19>>, <<art20,20>>, <<art21,21>> and <<art22,22>>)
+. transfers of personal data to a third country or international organization (see Articles <<art44,44>>, <<art45,45>>, <<art46,46>>, <<art47,47>>, <<art48,48>> and <<art49,49>>)
+. compliance with an order to limit processing, to suspend the flow of data to a third country or international organization or to provide access (see <<art58,Article 58>>)
+. other relevant Member State laws
+
+Non-compliance with <<art58,an order by a supervisory authority>> is subject to administrative fines of *the greater of twenty million euro and 4% of the total worldwide annual turnover of the preceding year*, if applicable.
 
 [#art84]
 == Article 84: Penalties
@@ -1052,12 +1106,20 @@ Member States may determine further special conditions for the processing, with 
 [#art88]
 == Article 88: Processing in the context of employment
 
-=== TODO
+Member States may provide more specific rules to ensure the protection of the rights and freedoms with respect to *the processing of employees' personal data* in the context of their employment, in particular for the purposes of recruitment or the performance of the contract of employment, including:
+
+. equality and diversity
+. health and safety,
+. protection of an employer's or customer's property,
+. protection of employees' rights
+. *termination of employment*.
+
+These rules must include *suitable measures to safeguard the data subject's rights*, particularly regarding <<art12,transparency>> of processing and transfers of personal data within a <<group-of-undertakings,group of undertakings>>.
 
 [#art89]
 == Article 89: Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes
 
-=== TODO
+Processing for archiving purposes in the public interest or for research purposes *must be subject to appropriate privacy safeguards*, including but not limited to <<pseudonymization,pseudonymization>> and <<art5,data minimization>> (see also <<art25,Article 25>>); European Union or Member State law may provide certain exceptions to these rules if they are likely to *impair or render impossible the fulfillment* of the specified purpose.
 
 [#art90]
 == Article 90: Obligations of secrecy
@@ -1068,3 +1130,52 @@ Member States may introduce specific rules to *further specify the powers of <<a
 == Article 91: Existing data protection rules of churches and religious associations
 
 Data protection rules applied by *churches or religious organizations* in a Member State may continue to apply, *provided that they are brought into line* with the GDPR; said associations are subject to the supervision of an *independent supervisory authority* as specified by Chapter VI of the Regulation (see Articles <<art51,51>>, <<art52,52>>, <<art53,53>>, <<art54,54>>, <<art55,55>>, <<art56,56>>, <<art57,57>>, <<art58,58>> and <<art59,59>>).
+
+[#art92]
+== Article 92: Exercise of the delegation
+
+Starting on 24 May 2016 the European Commission will be given the power to adopt *delegated acts* (see Articles <<art12,12>> and <<art43,43>>) from 24 May 2016 onwards; this power *may be revoked at any time* by the European Parliament or Council of the European Union, in which case *the validity of any existing delegated acts is not affected*.
+
+Delegated acts may only enter into force if *neither the European Parliament nor Council of the European Union have objected* to said act *within three months* from the notification of the act to the Parliament and the Council, or if the Parliament and Council have both informed the European Commission that they will not object.
+
+[#art93]
+== Article 93: Committee procedure
+
+The European Commission shall be assisted by a committee, as specified by https://eur-lex.europa.eu/eli/reg/2011/182/oj[Regulation (EU) No 182/2011].
+
+[#art94]
+== Article 94: Repeal of Directive 95/46/EC
+
+*Starting on 25 May 2018*, the *1995 Data Protection Directive* (https://eur-lex.europa.eu/eli/dir/1995/46/oj[Directive 95/46/EC]) is no longer in effect. References to said Directive are to be interpreted as references to the GDPR; the *Working Party on the Protection of Individuals* as specified by Article 29 of the Directive has been effectively replaced by the <<art68,European Data Protection Board>>.
+
+[#art95]
+== Article 95: Relationship with Directive 2002/58/EC
+
+_See also: https://eur-lex.europa.eu/eli/dir/2002/58/2009-12-19[Privacy and Electronic Communications Directive (Directive 2002/58/EC)]._
+
+[#art96]
+== Article 96: Relationship with previously concluded Agreements
+
+[quote,Article 96]
+International agreements involving the transfer of personal data to third countries or international organisations which were concluded by Member States prior to 24 May 2016, and which comply with Union law as applicable prior to that date, shall remain in force until amended, replaced or revoked.
+
+[#art97]
+== Article 97: Commission reports
+
+By 25 May 2020, and every four years afterwards, the European Commission must *submit and make public* a report on *the evaluation and review of the GDPR* to the European Parliament and the Council of the European Union.
+
+In particular, the European Commission must examine:
+
+. the application of Chapter V regarding the transfer of personal to third countries or international organizations (see Articles <<art44,44>>, <<art45,45>>, <<art46,46>>, <<art47,47>>, <<art48,48>>, <<art49,49>> and <<art50,50>>)
+. the application of Chapter VII regarding cooperation and consistency (see Articles <<art60,60>>, <<art61,61>>, <<art62,62>>, <<art63,63>>, <<art64,64>>, <<art65,65>>, <<art66,66>> and <<art67,67>>)
+
+[#art98]
+== Article 98: Review of other Union legal acts on data protection
+
+[quote,Article 98]
+The Commission shall, if appropriate, submit legislative proposals with a view to amending other Union legal acts on the protection of personal data, *in order to ensure uniform and consistent protection of natural persons* with regard to processing. This shall in particular concern the rules relating to the protection of  natural persons with regard to processing by Union institutions, bodies, offices and agencies and on the free movement of such data.
+
+[#art99]
+== Article 99: Entry into force and application
+
+*The GDPR enters into force on 25 May 2018*.
