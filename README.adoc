@@ -1003,7 +1003,15 @@ Member States may determine further special conditions for the processing, with 
 [#art88]
 == Article 88: Processing in the context of employment
 
-=== TODO
+Member States may provide more specific rules to ensure the protection of the rights and freedoms with respect to *the processing of employees' personal data* in the context of their employment, in particular for the purposes of recruitment or the performance of the contract of employment, including:
+
+. equality and diversity
+. health and safety,
+. protection of an employer's or customer's property,
+. protection of employees' rights
+. *termination of employment*.
+
+These rules must include *suitable measures to safeguard the data subject's rights*, particularly regarding <<art12,transparency>> of processing and transfers of personal data within a <<group-of-undertakings,group of undertakings>>.
 
 [#art89]
 == Article 89: Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes
