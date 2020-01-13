@@ -880,7 +880,26 @@ The Board *must act independently* when performing its tasks or exercising its p
 [#art70]
 == Article 70: Tasks of the Board
 
-=== TODO
+_See also <<art68,Article 68>>._
+
+The Board must ensure the consistent application of the GDPR, and shall:
+
+. advise the European Commission on issues related to personal data protection, and on procedures for the exchange of information between controllers, processors and <<art51,supervisory authorities>> for <<art47,binding corporate rules>>
+. *provide an opinion on <<art45,adequacy decisions>>*; the European Commission must provide the Board with all necessary resources for this task
+. *maintain a public register of decisions taken by supervisory authorities and courts* on issues of consistency (see Articles <<art63,63>>, <<art64,64>>, <<art65,65>>, <<art66,66>> and <<art67,67>>)
+. provide an opinion on <<art60, draft decisions of supervisory authorities>> in accordance with Articles <<art64,64>>, <<art65,65>> and <<art66,66>>
+. *issue guidelines and recommendations* on:
+.. procedures for removal of personal data (see also <<art17,Right to erasure>>)
+.. criteria and conditions for <<art22,profiling>>
+.. <<art34,handling personal data breaches>>, including *determination of what constitutes an "undue delay"* as specified in <<art33,Article 33>>
+.. data transfers *based on <<art47,binding corporate rules>>*, see also further criteria specified by <<art49,Article 49>>
+.. the setting of <<art83,administrative fines>>
+.. *common procedures for reporting infringements* of the Regulation
+.. creation of <<art40,common codes of conduct>> and <<art42,certification mechanisms>> (see also <<art43,Article 43>>)
+.. the standardized *icons* referred to in <<art12,Article 12>>
+. promote the cooperation and exchange of information and best practices between supervisory authorities
+
+The Board must make public and forward its opinions and guidelines to the European Commission and to the <<art93,committee>>.
 
 [#art71]
 == Article 71: Reports
