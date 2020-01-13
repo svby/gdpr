@@ -992,3 +992,8 @@ Member States must by law ensure that the right to the protection of personal da
 == Article 86: Processing and public access to official documents
 
 Personal data in official documents help by a public body, or by a private body for the performance of a task in the public interest, *may be disclosed by said body* in accordance with European Union or Member State law, in order to <<art85,reconcile>> public access to official documents with the right to data protection.
+
+[#art87]
+== Article 87: Processing of the national identification number
+
+Member States may determine further special conditions for the processing, with the appropriate privacy safeguards, of a *national identification number* or of any other generally-appliable identifier.
