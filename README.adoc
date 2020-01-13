@@ -755,3 +755,8 @@ A supervisory authority is, *on its territory*, obligated to, among others:
 Supervisory authorities *must provide a method by which complaints can be submitted*, e.g. an electronic complains submission form.
 
 The tasks of a supervisory authority must be *carried out free of charge* for the data subject and <<art37,data protection officer>>; they may nonetheless charge *a reasonable fee* if the requests are demonstrated to be manifestly *unfounded or excessive*.
+
+[#art59]
+== Article 59: Activity reports
+
+A supervisory authority *must compile annual reports of its activities*, to be made public and transmitted to national authorities as designated by Member State law.
