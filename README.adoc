@@ -130,7 +130,7 @@ a supervisory authority *concerned by* the processing of personal data because:
 
 . the controller or processor is established on the territory of the supervisory authority's Member State
 . data subjects in said Member State are (likely to be) substantially affected by said processing
-. a complaint has been filed with the supervisory authority
+. a <<art77,complaint has been filed>> with the supervisory authority
 
 cross-border processing::
 personal data processing that involves data subjects or controllers/processors in multiple Member States
@@ -264,7 +264,7 @@ When personal data is obtained, if they have not already done so, the controller
 . where applicable, *any intention by the controller to transfer personal data to a third country or international organization* and of any relevant <<art45,adequacy decision>>, or in the case of transfers to which Articles <<art46,46>>, <<art47,47>> and <<art49,49>>, *a reference to the appropriate safeguards*.
 . how long the personal data will be stored
 . the rights of the data subject to *submit an <<art15,information>>, <<art16,rectification>> or <<art17,erasure request>>*, to *<<art18,restriction of processing>>* and *<<art20,data portability>>*,footnoteref:[ico-portability, https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability[UK Information Commissioner’s Office: Right to data portability] ] and to *withdraw consent or <<art21,object to processing>>* at any time; withdrawal of consent does not affect the lawfulness of processing prior to the withdrawal
-. the right to file a complaint with a <<supervisory-authority,supervisory authority>>
+. the right to file a complaint with a <<supervisory-authority,supervisory authority>> (see <<art77,Article 77>>)
 . *whether the acquisition of personal data is a contractual requirement*, and the consequences if it is not provided
 . whether the controller intends to further process the personal data <<art5,for another purpose>>
 
@@ -282,7 +282,7 @@ When personal data has been obtained from a source other than the data subject, 
 . how long the personal data will be stored
 . the *<<art6-interests,legitimate interests>>* of the controller or of a <<third-party,third party>>
 . the rights of the data subject to *submit an <<art15,information>>, <<art16,rectification>> or <<art17,erasure request>>*, to *<<art18,restriction of processing>>* and *<<art20,data portability>>*,footnoteref:[ico-portability]
-. the right to file a complaint with a <<supervisory-authority,supervisory authority>>
+. the right to file a complaint with a <<supervisory-authority,supervisory authority>> (see <<art77,Article 77>>)
 . *the source of the personal data*, and whether it came from publicly accessible sources
 . *whether <<profiling,profiling>>, automated processing or decision-making is involved* (see Article <<art22,22>>), and, if applicable, information about its operation and possible consequences
 . whether the controller intends to further process the personal data <<art5,for another purpose>>
@@ -303,7 +303,7 @@ If requested, the controller *must inform the data subject* whether any personal
 . the recipients of the personal data, if applicable, especially those which are *international organizations* or are *located in third countries*
 . how long the personal data will be stored
 . the rights of the data subject to *submit a <<art16,rectification>> or <<art17,erasure request>>* and to *<<art18,restriction of processing>>*
-. the right to file a complaint with a <<supervisory-authority,supervisory authority>>
+. the right to file a complaint with a <<supervisory-authority,supervisory authority>> (see <<art77,Article 77>>)
 . *the source of the personal data*, and whether it came from publicly accessible sources, if <<art14,the data was not collected from the data subject>>
 . *whether <<profiling,profiling>>, automated processing or decision-making is involved* (see Article <<art22,22>>), and, if applicable, information about its operation and possible consequences
 . *what safeguards are in place to protect the <<art5,integrity and confidentiality>> of personal data*, if it has been transferred to a third country or to an international organization
@@ -331,7 +331,7 @@ If the personal data has been made public by the controller, and is obliged by t
 
 These conditions *do not apply* if:
 
-. processising is necessary to exercise *the right to freedom of expression and information*
+. processising is necessary to exercise *<<art85,the right to freedom of expression and information>>*
 . processing is necessary to *comply with legal obligations*, to *exercise an official authority* of the controller, or for a task *carried out in the public interest* (see <<art9-exceptions,Article 9>>)
 . processing is necessary for archiving or for research purposes
 . processing is necessary for *the establishment, exercise or defense of legal claims*
@@ -764,7 +764,7 @@ Each supervisory authority is https://en.wikipedia.org/wiki/Competent_authority[
 
 CAUTION: This article does not apply *to processing _carried out by public authorities in the public interest_*, or *_to comply with legal obligations_*, as specified in Articles <<art6,6>> and <<art55,55>>.
 
-The <<art51,supervisory authority>> of the controller or processor's <<main-establishment,main establishment>> is authorized to act as the *lead supervisory authority* for any cross-border processing carried out by said controller or processor; however, such a supervisory authority is authorized to handle filed complaints *only if said note concerns the Member State in which it is established*. In such cases, the supervisory authority must inform the lead supervisory authority without delay.
+The <<art51,supervisory authority>> of the controller or processor's <<main-establishment,main establishment>> is authorized to act as the *lead supervisory authority* for any cross-border processing carried out by said controller or processor; however, such a supervisory authority is authorized to handle filed <<art77,complaints>> *only if said note concerns the Member State in which it is established*. In such cases, the supervisory authority must inform the lead supervisory authority without delay.
 
 Within *three weeks from the time of receipt* of a complaint, the lead supervisory authority *must decide whether it will handle the case*, taking into account the rules for cooperation specified in <<art60,Article 60>>. If it decides not to handle the case, *the supervisory authority which informed it must handle the case instead*, as specified by Articles <<art61,61>> and <<art62,62>>.
 
@@ -775,7 +775,7 @@ A supervisory authority is, *on its territory*, obligated to, among others:
 
 . monitor and enforce GDPR compliance
 . *advise national institutions and bodies* on relevant legislative and administrative measures
-. *handle and investigate complaints* filed by data subjects or other entities in accordance with <<art80,Article 80>>
+. *handle and investigate complaints* filed by data subjects or other entities in accordance with Articles <<art77,77>> and <<art80,80>>
 . cooperate with, and provide information an assistance to, other supervisory authorities
 . *provide information to data subjects*, concerning their rights under the GDPR, by request
 . make controllers and/or processors aware of their obligations under the GDPR
@@ -785,7 +785,7 @@ A supervisory authority is, *on its territory*, obligated to, among others:
 . maintain *a list of requirements* for <<art35,data protection impact assessments>>
 . *keep record of infringements of the Regulation* (see also <<art58,Article 58>>)
 
-Supervisory authorities *must provide a method by which complaints can be submitted*, e.g. an electronic complains submission form.
+Supervisory authorities *must provide a method by which <<art77,complaints can be submitted>>*, e.g. an electronic complains submission form.
 
 The tasks of a supervisory authority must be *carried out free of charge* for the data subject and <<art37,data protection officer>>; they may nonetheless charge *a reasonable fee* if the requests are demonstrated to be manifestly *unfounded or excessive*.
 
@@ -900,7 +900,7 @@ The Board:
 . is represented by <<art73,its Chair>>
 . is composed of *the head of one supervisory authority from each Member State*, and of the European Data Protection Supervisor, or of their respective representatives; if multiple supervisory authorities are responsible for monitoring Regulation compliance in a given Member State, they may *appoint a joint representative*
 
-The European Commission *has the right to participate in Board activities* by means of an appointed representative, without voting rights.
+The European Commission *has the right to participate in Board activities* by means of an appointed representative, without voting rights. The European Data Protection Supervisor has voting rights *only on decisions which concern principles and rules applicable to Regulation-relevant European Union institutions*, bodies, offices and agencies.
 
 [#art69]
 == Article 69: Independence
@@ -942,3 +942,90 @@ The Chair has the following tasks:
 . to ensure the *timely performance of tasks* (see also <<art63,Article 63>>)
 
 The Board shall specify in its <<art72,rules of procedure>> the distribution of tasks between the Chair and deputy chairs.
+
+[#art75]
+== Article 75: Secretariat
+
+The Board must have a *secretariat* provided to it by the European Data Protection Supervisor, which is responsible for the following:
+
+. analytical, administrative and logistical support
+. day-to-day business of the Board; this includes the preparation and follow-up of meetings and the *preparation and publication of opinions and decisions* adopted by the Board
+. *communication between the members of the Board, <<art74,the Chair>>, and the European Commission*, and with other institutions and the public
+. the translation of relevant information
+
+[#art76]
+== Article 76: Confidentiality
+
+Board discussions *may be made confidential by the Board* if deemed necessary. Access to Board documents is governed by https://eur-lex.europa.eu/eli/reg/2001/1049/oj[Regulation (EC) No 1049/2001].
+
+[#art77]
+== Article 77: Right to lodge a complaint with a supervisory authority
+
+Data subjects have the right to *file a complaint with a <<art51,supervisory authority>>* in the Member State of their *residence, place of work, or place of the alleged infringement*; said supervisory authority must inform the complainant of *the progress and outcome of the complaint* (see <<art78,Article 78>>).
+
+[#art78]
+== Article 78: Right to an effective judicial remedy against a supervisory authority
+
+All natural or legal persons have *the right to an effective judicial remedy* against a legally binding decision concerning them made by a <<art51,supervisory authority>>, or when the _competent_ (see Articles <<art55,55>> and <<art56,56>>) supervisory authority *does not handle a filed complaint*, or *does not inform the data subject of the progress* and/or outcome of a filed complaint in accordance with <<art77,Article 77>>.
+
+Proceedings against a supervisory authority *must be brought before the courts of the Member State* in which the supervisory authority is <<art3,established>>.
+
+[#art79]
+== Article 79: Right to an effective judicial remedy against a controller or processor
+
+_See also <<art77,Article 77>>._
+
+All natural or legal persons have *the right to an effective judicial remedy* against a controller or processor *when their rights have been infringed upon* as a result of non-Regulation-compliant processing.
+
+Proceedings against a supervisory authority *must be brought before the courts of a Member State* in which the controller or processor has an establishment, or of the Member State of *the data subject's residence*, *unless the controller or processor is a public authority* acting in the exercise of its public powers.
+
+[#art80]
+== Article 80: Representation of data subjects
+
+Data subjects have the right to mandate a non-profit organization to file a complaint on their behalf, provided that said organization:
+
+. has been *properly constituted*
+. has *statutory objectives* which are in the public interest
+. is active in the field of data rights protection
+
+_See also Articles <<art77,77>>, <<art78,78>>, <<art79,79>> and <<art82,82>>._
+
+[#art81]
+== Article 81: Suspension of proceedings
+
+If multiple competent courts have information on proceedings, concerning the same subject matter and regarding processing by the same controller or processor, *all except the court first seized may suspend proceedings*; they may also *decline jurisdiction in favor of the court first seized*, if that court has jurisdiction over said proceedings.
+
+[quote,Recital 144]
+Proceedings are deemed to be related where they are so closely connected that it is expedient to hear and determine them together in order to avoid the risk of irreconcilable judgments resulting from separate proceedings.
+
+[#art82]
+== Article 82: Right to compensation and liability
+
+=== TODO
+
+[#art83]
+== Article 83: General conditions for imposing administrative fines
+
+=== TODO
+
+[#art84]
+== Article 84: Penalties
+
+_See also: <<art83,Article 83>>._
+
+Member States must specify relevant rules for other *effective, proportionate and dissuasive penalties* applicable to infringements of the GDPR, in particular for infringements which are not subject to <<art83,administrative fines>>, and must take necessary measures to *ensure that they are implemented*; the European Commission *must be informed of such laws by 25 May 2018*, and of any subsequent amendments.
+
+[#art85]
+== Article 85: Processing and freedom of expression and information
+
+Member States must by law ensure that the right to the protection of personal data *is compatible with the right to freedom of expression and information*; this includes processing for *journalistic, academic, artistic and literary* purposes, for which Member States must provide *exemptions from Chapters II-VII and IX of the GDPR if they are necessary to ensure the aforementioned compatibility* (Articles <<art5,5>>, <<art6,6>>, <<art7,7>>, <<art8,8>>, <<art9,9>>, <<art10,10>>, <<art11,11>>, <<art12,12>>, <<art13,13>>, <<art14,14>>, <<art15,15>>, <<art16,16>>, <<art17,17>>, <<art18,18>>, <<art19,19>>, <<art20,20>>, <<art21,21>>, <<art22,22>>, <<art23,23>>, <<art24,24>>, <<art25,25>>, <<art26,26>>, <<art27,27>>, <<art28,28>>, <<art29,29>>, <<art30,30>>, <<art31,31>>, <<art32,32>>, <<art33,33>>, <<art34,34>>, <<art35,35>>, <<art36,36>>, <<art37,37>>, <<art38,38>>, <<art39,39>>, <<art40,40>>, <<art41,41>>, <<art42,42>>, <<art43,43>>, <<art44,44>>, <<art45,45>>, <<art46,46>>, <<art47,47>>, <<art48,48>>, <<art49,49>>, <<art50,50>>, <<art51,51>>, <<art52,52>>, <<art53,53>>, <<art54,54>>, <<art55,55>>, <<art56,56>>, <<art57,57>>, <<art58,58>>, <<art59,59>>, <<art60,60>>, <<art61,61>>, <<art62,62>>, <<art63,63>>, <<art64,64>>, <<art65,65>>, <<art66,66>>, <<art67,67>>, <<art68,68>>, <<art69,69>>, <<art70,70>>, <<art71,71>>, <<art72,72>>, <<art73,73>>, <<art74,74>>, <<art75,75>>, <<art76,76>>, <<art85,85>>, <<art86,86>>, <<art87,87>>, <<art88,88>>, <<art89,89>>, <<art90,90>> and <<art91,91>>).
+
+[#art86]
+== Article 86: Processing and public access to official documents
+
+Personal data in official documents help by a public body, or by a private body for the performance of a task in the public interest, *may be disclosed by said body* in accordance with European Union or Member State law, in order to <<art85,reconcile>> public access to official documents with the right to data protection.
+
+[#art87]
+== Article 87: Processing of the national identification number
+
+Member States may determine further special conditions for the processing, with the appropriate privacy safeguards, of a *national identification number* or of any other generally-appliable identifier.
