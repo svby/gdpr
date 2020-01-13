@@ -1026,3 +1026,8 @@ Data protection rules applied by *churches or religious organizations* in a Memb
 Starting on 24 May 2016 the European Commission will be given the power to adopt *delegated acts* (see Articles <<art12,12>> and <<art43,43>>) from 24 May 2016 onwards; this power *may be revoked at any time* by the European Parliament or Council of the European Union, in which case *the validity of any existing delegated acts is not affected*.
 
 Delegated acts may only enter into force if *neither the European Parliament nor Council of the European Union have objected* to said act *within three months* from the notification of the act to the Parliament and the Council, or if the Parliament and Council have both informed the European Commission that they will not object.
+
+[#art93]
+== Article 93: Committee procedure
+
+The European Commission shall be assisted by a committee, as specified by https://eur-lex.europa.eu/eli/reg/2011/182/oj[Regulation (EU) No 182/2011].
