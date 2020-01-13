@@ -708,3 +708,13 @@ Members of a supervisory authority of a given Member State are appointed by:
 . an independent body *authorized to do so under Member State law*
 
 All members *must be sufficiently qualified* to perform the duties of the supervisory authority.
+
+[#art54]
+== Article 54: Rules on the establishment of the supervisory authority
+
+Each Member State must, *by law*, provide for:
+
+. the establishment of each supervisory authority
+. necessary qualifications, rules, and procedures for the members of said supervisory authorities, including any applicable term limits for reappointment
+
+Members and staff of a supervisory authority are *bound by confidentiality both during and after their term of office*.
