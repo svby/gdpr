@@ -124,6 +124,7 @@ data protection policies which are followed by a controller or processor establi
 supervisory authority::
 see <<art51,Article 51>>
 
+[#supervisory-authority-concerned]
 supervisory authority concerned::
 a supervisory authority *concerned by* the processing of personal data because:
 
@@ -760,3 +761,19 @@ The tasks of a supervisory authority must be *carried out free of charge* for th
 == Article 59: Activity reports
 
 A supervisory authority *must compile annual reports of its activities*, to be made public and transmitted to national authorities as designated by Member State law.
+
+[#art60]
+== Article 60: Cooperation between the lead supervisory authority and the other supervisory authorities concerned
+
+The *<<art56,lead supervisory authority>>* must cooperate with other supervisory authorities *in order to reach consensus*, and may request assistance from them in accordance with Articles <<art61,61>> and <<art62,62>>, in particular for the purpose of *monitoring or investigation of a controller or processor* established in another Member State; the <<#supervisory-authority-concerned,supervisory authorities concerned>> must *exchange all relevant information* with each other without delay.
+
+If any of the other supervisory authorities concerned expresses a *relevant and reasoned objection* to a draft decision, the lead supervisory authority must:
+
+. if it accepts the objection, submit a revised draft decision *within 2 weeks*
+. otherwise, *it may* <<art64,*request examination* by the European Data Protection Board>> as specified in Articles <<art63,63>>, <<art64,64>> and <<art65,65>>
+
+Otherwise, all involved supervisory authorities *are considered in agreement* with the draft decision and are bound by it; the decision is then adopted by the lead supervisory authority.
+
+The Board and other supervisory authorities *must be informed of any adopted or rejected decisions*, as well as provided *a summary of the relevant information*. After being notified of a decision, the controller and/or processor must ensure that it fully complies with said decision, and *inform the supervisory authority of all tasks it has taken* to comply.
+
+_See also <<art66,Article 66>>_.
