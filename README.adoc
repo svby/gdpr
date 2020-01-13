@@ -858,7 +858,7 @@ _See also <<art68,Article 68>>._
 [#art67]
 == Article 67: Exchange of information
 
-=== TODO
+The European Commission may adopt general implementing acts in order to specify conditions for the exchange of information between <<art51,supervisory authorities>> and between <<art51,supervisory authorities>> and <<art68,the Board>>.
 
 [#art68]
 == Article 68: European Data Protection Board
