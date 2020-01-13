@@ -957,3 +957,11 @@ Data subjects have the right to mandate a non-profit organization to file a comp
 . is active in the field of data rights protection
 
 _See also Articles <<art77,77>>, <<art78,78>>, <<art79,79>> and <<art82,82>>._
+
+[#art81]
+== Article 81: Suspension of proceedings
+
+If multiple competent courts have information on proceedings, concerning the same subject matter and regarding processing by the same controller or processor, *all except the court first seized may suspend proceedings*; they may also *decline jurisdiction in favor of the court first seized*, if that court has jurisdiction over said proceedings.
+
+[quote,Recital 144]
+Proceedings are deemed to be related where they are so closely connected that it is expedient to hear and determine them together in order to avoid the risk of irreconcilable judgments resulting from separate proceedings.
