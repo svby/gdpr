@@ -291,7 +291,7 @@ Controllers must provide data subjects with this information *without undue dela
 
 . informing the data subject would be *impossible, or involve a disproportionate effort*, *especially for archival or research purposes*; in these cases, the controller must ensure the data subjects' rights and freedoms are protected appropriately, including *making the information publicly available*.
 . obtaining or disclosure is *explicitly laid down by European Union or Member State law*
-. the personal data <<art5,must remain confidential>>
+. the personal data <<art90,must remain confidential>>
 
 [#art15]
 == Article 15: Right of access by the data subject
@@ -781,7 +781,7 @@ Supervisory authorities have *the following powers*:
 
 Supervisory authorities must be given the power to *bring infringements of the Regulation to the attention of judicial authorities,* and, if necessary for enforcement, to engage in legal proceedings.
 
-Member State law *may grant additional powers* to its respective supervisory authority.
+Member State law *may grant additional powers* to its respective supervisory authority (see <<art90,Article 90>>).
 
 [#art59]
 == Article 59: Activity reports
@@ -997,3 +997,18 @@ Personal data in official documents help by a public body, or by a private body 
 == Article 87: Processing of the national identification number
 
 Member States may determine further special conditions for the processing, with the appropriate privacy safeguards, of a *national identification number* or of any other generally-appliable identifier.
+
+[#art88]
+== Article 88: Processing in the context of employment
+
+=== TODO
+
+[#art89]
+== Article 89: Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes
+
+=== TODO
+
+[#art90]
+== Article 90: Obligations of secrecy
+
+Member States may introduce specific rules to *further specify the powers of <<art51,supervisory authorities>>*, as specified in <<art58,Article 58>> regarding controllers or processors that are *subject to an obligation of secrecy* and the data received as part of an activity covered by said obligation.
