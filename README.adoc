@@ -119,7 +119,7 @@ a controlling *undertaking* and its controlled undertakings
 footnote:[https://uk.practicallaw.thomsonreuters.com/w-014-8183[Practical Law: group of undertakings]]
 
 binding corporate rules::
-data protection policies which are followed by a controller or processor established in a Member State for *transfers of personal data to a controller or processor in a third country* within a group of undertakings.
+data protection policies which are followed by a controller or processor established in a Member State for *transfers of personal data to a controller or processor in a third country* within a group of undertakings (see also <<art47,Article 47>>).
 
 supervisory authority::
 see <<art51,Article 51>>
@@ -751,11 +751,37 @@ A supervisory authority is, *on its territory*, obligated to, among others:
 . adopt and authorize <<art28-standard-clauses,standard contractual clauses>> (see also <<art46,Article 46>>)
 . approve <<art47,binding corporate rules>>
 . maintain *a list of requirements* for <<art35,data protection impact assessments>>
-. *keep record of infringements of the Regulation* (see <<art58,Article 58>>)
+. *keep record of infringements of the Regulation* (see also <<art58,Article 58>>)
 
 Supervisory authorities *must provide a method by which complaints can be submitted*, e.g. an electronic complains submission form.
 
 The tasks of a supervisory authority must be *carried out free of charge* for the data subject and <<art37,data protection officer>>; they may nonetheless charge *a reasonable fee* if the requests are demonstrated to be manifestly *unfounded or excessive*.
+
+[#art58]
+== Article 58: Powers
+
+Supervisory authorities have *the following powers*:
+
+. to order the controller and/or processor and their respective representative(s) *to provide any required information*, including *access to all required personal data* and *to all premises and processing equipment* of the controller and/or processor
+. to carry out *data protection audits* and review <<art42,data protection certification mechanisms>>
+. to *notify the controller or processor* of an alleged infringement of the Regulation, or to issue warnings to such entities that *intended processing is likely to infringe upon the GDPR*, or to take appropriate corrective action
+. to order the controller or processor *to comply with a data subject's requests* to exercise their data rights
+. to order the controller or processor to *bring processing operations into Regulation compliance* within a specified time period
+. to order the controller to inform the data subject of a personal data breach (see <<art33,Article 33>>)
+. to impose *a restriction or ban on processing* or <<art44,*transfer of personal data to a third country* or international organization>>
+. to order the *<<art16,rectification>>, <<art17,erasure>>, or <<art18,restriction of processing>>* of personal data in accordance with <<art19,Article 19>>
+. to issue <<art42,certifications>> and accredit <<art43,certification bodies>>
+. to order withdrawal of a certification (see Articles <<art42,42>> and <<art43,43>>)
+. to impose <<art83,an administrative fine>>
+. to adopt <<art28-standard-clauses,standard data protection clauses>> and authorize <<art46,contractual clauses>>
+. to authorize _administrative arrangements_, as specified in <<art46,Article 46>>
+. to advise the controller (see <<art36,Article 36>>)
+. *to issue opinions to the public and to national authorities* and bodies, in accordance with Member State law, on any issue related to data protection
+. to approve <<art47,binding corporate rules>>
+
+Supervisory authorities must be given the power to *bring infringements of the Regulation to the attention of judicial authorities,* and, if necessary for enforcement, to engage in legal proceedings.
+
+Member State law *may grant additional powers* to its respective supervisory authority.
 
 [#art59]
 == Article 59: Activity reports
