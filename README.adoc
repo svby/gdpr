@@ -965,3 +965,20 @@ If multiple competent courts have information on proceedings, concerning the sam
 
 [quote,Recital 144]
 Proceedings are deemed to be related where they are so closely connected that it is expedient to hear and determine them together in order to avoid the risk of irreconcilable judgments resulting from separate proceedings.
+
+[#art82]
+== Article 82: Right to compensation and liability
+
+=== TODO
+
+[#art83]
+== Article 83: General conditions for imposing administrative fines
+
+=== TODO
+
+[#art84]
+== Article 84: Penalties
+
+_See also: <<art83,Article 83>>._
+
+Member States must specify relevant rules for other *effective, proportionate and dissuasive penalties* applicable to infringements of the GDPR, in particular for infringements which are not subject to <<art83,administrative fines>>, and must take necessary measures to *ensure that they are implemented*; the European Commission *must be informed of such laws by 25 May 2018*, and of any subsequent amendments.
