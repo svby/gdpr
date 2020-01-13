@@ -929,4 +929,11 @@ Board discussions *may be made confidential by the Board* if deemed necessary. A
 [#art77]
 == Article 77: Right to lodge a complaint with a supervisory authority
 
-Data subjects have the right to *file a complaint with a supervisory authority* in the Member State of their *residence, place of work, or place of the alleged infringement*; said supervisory authority must inform the complainant of the progress and outcome of the complaint (see <<art78,Article 78>>).
+Data subjects have the right to *file a complaint with a <<art51,supervisory authority>>* in the Member State of their *residence, place of work, or place of the alleged infringement*; said supervisory authority must inform the complainant of *the progress and outcome of the complaint* (see <<art78,Article 78>>).
+
+[#art78]
+== Article 78: Right to an effective judicial remedy against a supervisory authority
+
+All natural or legal persons have *the right to an effective judicial remedy* against a legally binding decision concerning them made by a <<art51,supervisory authority>>, or when the _competent_ (see Articles <<art55,55>> and <<art56,56>>) supervisory authority *does not handle a filed complaint*, or *does not inform the data subject of the progress* and/or outcome of a filed complaint in accordance with <<art77,Article 77>>.
+
+Proceedings against a supervisory authority *must be brought before the courts of the Member State* in which the supervisory authority is <<art3,established>>.
