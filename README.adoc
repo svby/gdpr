@@ -86,6 +86,8 @@ an entity other than the data subject, controller, or processor which is authori
 consent::
 *freely given, specific, informed and unambiguous* indication that the data subject agrees to have their personal data processed
 
+CAUTION: Consent must be unambiguous; *silence, pre-ticked boxes or inactivity therefore do not constitute consent* (see Recital 32).
+
 [#personal-data-breach]
 personal data breach::
 a breach of security leading to *the destruction, loss, alteration, unauthorized disclosure of or access to* processed personal data
@@ -685,3 +687,5 @@ The European Commission and <<supervisory-authority,supervisory authorities>> wi
 [#supervisory-authority]
 supervisory authority::
 an independent public authority *responsible for monitoring Regulation compliance* in order to protect the rights and freedoms of data subjects, and to *facilitate the free flow of personal data* within the European Union.
+
+Cooperation between supervisory authorities and the European Commission is *subject to the consistency requirements* specified in Chapter VII, Section 2 of the GDPR (Articles <<art63,63>>, <<art64,64>>, <<art65,65>>, <<art66,66>>, and <<art67,67>>).
