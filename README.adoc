@@ -828,3 +828,8 @@ The host supervisory authority *may additionally confer powers* on any other inv
 The seconding supervisory authority's members are *subject to the Member State law of the host supervisory authority*. The host Member State assumes responsibility for the actions of said members and *is liable for any damage caused by them as part of their operations*; the Member State of the seconding supervisory authority *must reimburse any sums it has paid* to persons entitled on its behalf.
 
 _See also <<art66,Article 66>>_.
+
+[#art63]
+== Article 63: Consistency mechanism
+
+In order to ensure the consistent application of the GDPR, supervisory authorities must cooperate with each other as necessary.
