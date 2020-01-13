@@ -578,6 +578,18 @@ The data subject is not required to be informed of a data breach if at least one
 [#art36]
 == Article 36: Prior consultation
 
+. If a <<art35,data protection impact assessment>> results in a high risk if no measures are taken, the controller should consult supervisory authority
+. If the supervisory authority decides that the processing infringes this Regulation, especially when the risk has not been evaluated sufficiently, the supervisory authority has 8 weeks for consultation, provide written advice to the controller (and processor if applicable) and may use any of its <<art58,powers>>. If the case is complexer the period may be extended by up to 6 weeks, the controller/processor shall be informed of this extension after a month of receipt, including a reason for the delay. These periods may be suspended until the authority has obtained information it has requested for the consulation.
+. The controller must provide the authority with:
+.. Where applicable: The responsibilities of controller, joint controllers, processors involved in processing - in particular for processing within a group of undertakings
+.. The purposes and means of the intended processing
+.. The measures and safeguards for data protection
+.. Where applicable: Contact  of the data protection officer.
+.. The <<art35,data protection impact assessment provided>>
+.. Any other requested information
+. Member States should consult the supervisory authority if they prepare legislative measures to be adopted by national government
+. In case of data processing in relation to social protection and public health notwithstanding paragraph 1, controllers may be required to consult supervisory authority.
+
 === TODO
 
 [#art37]
