@@ -247,6 +247,8 @@ If a controller demonstrably is not in a position to be able to identify the dat
 
 All processed personal data referred to by Articles <<art13,13>>, <<art14,14>>, <<art15,15>>, <<art16,16>>, <<art17,17>>, <<art18,18>>, <<art19,19>>, <<art20,20>>, <<art21,21>>, <<art22,22>> and <<art34,34>> must be provided (in writing, orally, or by other means) to the data subject in a *concise, transparent, intelligible and easily accessible form*, particularly for *any information addressed to a child*. Controllers must facilitate the exercise of data subjects' rights according to Articles 15–22, unless they <<art11-2,demonstrably cannot identify the data subject>>.
 
+A standardized set of *icons* may be used to *clearly and visibly present* the required information; the European Commission may adopt delegated acts (see <<art92,Article 92>>) to determine the procedures for providing said standardized icons.
+
 Controllers must provide information on the status of <<art15,requests made unter Articles 15–22>> *without undue delay*; this must occur *within one month* of the receipt of the request. If the controller does not take action, they must likewise notify the data subject within one month and inform them of the *reasons for not taking action* and of any possible *legal remedies*.
 
 [#art12-fee]
@@ -1017,3 +1019,10 @@ Member States may introduce specific rules to *further specify the powers of <<a
 == Article 91: Existing data protection rules of churches and religious associations
 
 Data protection rules applied by *churches or religious organizations* in a Member State may continue to apply, *provided that they are brought into line* with the GDPR; said associations are subject to the supervision of an *independent supervisory authority* as specified by Chapter VI of the Regulation (see Articles <<art51,51>>, <<art52,52>>, <<art53,53>>, <<art54,54>>, <<art55,55>>, <<art56,56>>, <<art57,57>>, <<art58,58>> and <<art59,59>>).
+
+[#art92]
+== Article 92: Exercise of the delegation
+
+Starting on 24 May 2016 the European Commission will be given the power to adopt *delegated acts* (see Articles <<art12,12>> and <<art43,43>>) from 24 May 2016 onwards; this power *may be revoked at any time* by the European Parliament or Council of the European Union, in which case *the validity of any existing delegated acts is not affected*.
+
+Delegated acts may only enter into force if *neither the European Parliament nor Council of the European Union have objected* to said act *within three months* from the notification of the act to the Parliament and the Council, or if the Parliament and Council have both informed the European Commission that they will not object.
