@@ -130,7 +130,7 @@ a supervisory authority *concerned by* the processing of personal data because:
 
 . the controller or processor is established on the territory of the supervisory authority's Member State
 . data subjects in said Member State are (likely to be) substantially affected by said processing
-. a complaint has been filed with the supervisory authority
+. a <<art77,complaint has been filed>> with the supervisory authority
 
 cross-border processing::
 personal data processing that involves data subjects or controllers/processors in multiple Member States
@@ -264,7 +264,7 @@ When personal data is obtained, if they have not already done so, the controller
 . where applicable, *any intention by the controller to transfer personal data to a third country or international organization* and of any relevant <<art45,adequacy decision>>, or in the case of transfers to which Articles <<art46,46>>, <<art47,47>> and <<art49,49>>, *a reference to the appropriate safeguards*.
 . how long the personal data will be stored
 . the rights of the data subject to *submit an <<art15,information>>, <<art16,rectification>> or <<art17,erasure request>>*, to *<<art18,restriction of processing>>* and *<<art20,data portability>>*,footnoteref:[ico-portability, https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability[UK Information Commissioner’s Office: Right to data portability] ] and to *withdraw consent or <<art21,object to processing>>* at any time; withdrawal of consent does not affect the lawfulness of processing prior to the withdrawal
-. the right to file a complaint with a <<supervisory-authority,supervisory authority>>
+. the right to file a complaint with a <<supervisory-authority,supervisory authority>> (see <<art77,Article 77>>)
 . *whether the acquisition of personal data is a contractual requirement*, and the consequences if it is not provided
 . whether the controller intends to further process the personal data <<art5,for another purpose>>
 
@@ -282,7 +282,7 @@ When personal data has been obtained from a source other than the data subject, 
 . how long the personal data will be stored
 . the *<<art6-interests,legitimate interests>>* of the controller or of a <<third-party,third party>>
 . the rights of the data subject to *submit an <<art15,information>>, <<art16,rectification>> or <<art17,erasure request>>*, to *<<art18,restriction of processing>>* and *<<art20,data portability>>*,footnoteref:[ico-portability]
-. the right to file a complaint with a <<supervisory-authority,supervisory authority>>
+. the right to file a complaint with a <<supervisory-authority,supervisory authority>> (see <<art77,Article 77>>)
 . *the source of the personal data*, and whether it came from publicly accessible sources
 . *whether <<profiling,profiling>>, automated processing or decision-making is involved* (see Article <<art22,22>>), and, if applicable, information about its operation and possible consequences
 . whether the controller intends to further process the personal data <<art5,for another purpose>>
@@ -303,7 +303,7 @@ If requested, the controller *must inform the data subject* whether any personal
 . the recipients of the personal data, if applicable, especially those which are *international organizations* or are *located in third countries*
 . how long the personal data will be stored
 . the rights of the data subject to *submit a <<art16,rectification>> or <<art17,erasure request>>* and to *<<art18,restriction of processing>>*
-. the right to file a complaint with a <<supervisory-authority,supervisory authority>>
+. the right to file a complaint with a <<supervisory-authority,supervisory authority>> (see <<art77,Article 77>>)
 . *the source of the personal data*, and whether it came from publicly accessible sources, if <<art14,the data was not collected from the data subject>>
 . *whether <<profiling,profiling>>, automated processing or decision-making is involved* (see Article <<art22,22>>), and, if applicable, information about its operation and possible consequences
 . *what safeguards are in place to protect the <<art5,integrity and confidentiality>> of personal data*, if it has been transferred to a third country or to an international organization
@@ -732,7 +732,7 @@ Each supervisory authority is https://en.wikipedia.org/wiki/Competent_authority[
 
 CAUTION: This article does not apply *to processing _carried out by public authorities in the public interest_*, or *_to comply with legal obligations_*, as specified in Articles <<art6,6>> and <<art55,55>>.
 
-The <<art51,supervisory authority>> of the controller or processor's <<main-establishment,main establishment>> is authorized to act as the *lead supervisory authority* for any cross-border processing carried out by said controller or processor; however, such a supervisory authority is authorized to handle filed complaints *only if said note concerns the Member State in which it is established*. In such cases, the supervisory authority must inform the lead supervisory authority without delay.
+The <<art51,supervisory authority>> of the controller or processor's <<main-establishment,main establishment>> is authorized to act as the *lead supervisory authority* for any cross-border processing carried out by said controller or processor; however, such a supervisory authority is authorized to handle filed <<art77,complaints>> *only if said note concerns the Member State in which it is established*. In such cases, the supervisory authority must inform the lead supervisory authority without delay.
 
 Within *three weeks from the time of receipt* of a complaint, the lead supervisory authority *must decide whether it will handle the case*, taking into account the rules for cooperation specified in <<art60,Article 60>>. If it decides not to handle the case, *the supervisory authority which informed it must handle the case instead*, as specified by Articles <<art61,61>> and <<art62,62>>.
 
@@ -743,7 +743,7 @@ A supervisory authority is, *on its territory*, obligated to, among others:
 
 . monitor and enforce GDPR compliance
 . *advise national institutions and bodies* on relevant legislative and administrative measures
-. *handle and investigate complaints* filed by data subjects or other entities in accordance with <<art80,Article 80>>
+. *handle and investigate complaints* filed by data subjects or other entities in accordance with Articles <<art77,77>> and <<art80,80>>
 . cooperate with, and provide information an assistance to, other supervisory authorities
 . *provide information to data subjects*, concerning their rights under the GDPR, by request
 . make controllers and/or processors aware of their obligations under the GDPR
@@ -753,7 +753,7 @@ A supervisory authority is, *on its territory*, obligated to, among others:
 . maintain *a list of requirements* for <<art35,data protection impact assessments>>
 . *keep record of infringements of the Regulation* (see also <<art58,Article 58>>)
 
-Supervisory authorities *must provide a method by which complaints can be submitted*, e.g. an electronic complains submission form.
+Supervisory authorities *must provide a method by which <<art77,complaints can be submitted>>*, e.g. an electronic complains submission form.
 
 The tasks of a supervisory authority must be *carried out free of charge* for the data subject and <<art37,data protection officer>>; they may nonetheless charge *a reasonable fee* if the requests are demonstrated to be manifestly *unfounded or excessive*.
 
@@ -925,3 +925,8 @@ The Board must have a *secretariat* provided to it by the European Data Protecti
 == Article 76: Confidentiality
 
 Board discussions *may be made confidential by the Board* if deemed necessary. Access to Board documents is governed by https://eur-lex.europa.eu/eli/reg/2001/1049/oj[Regulation (EC) No 1049/2001].
+
+[#art77]
+== Article 77: Right to lodge a complaint with a supervisory authority
+
+Data subjects have the right to *file a complaint with a supervisory authority* in the Member State of their *residence, place of work, or place of the alleged infringement*; said supervisory authority must inform the complainant of the progress and outcome of the complaint (see <<art78,Article 78>>).
