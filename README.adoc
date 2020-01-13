@@ -937,3 +937,12 @@ Data subjects have the right to *file a complaint with a <<art51,supervisory aut
 All natural or legal persons have *the right to an effective judicial remedy* against a legally binding decision concerning them made by a <<art51,supervisory authority>>, or when the _competent_ (see Articles <<art55,55>> and <<art56,56>>) supervisory authority *does not handle a filed complaint*, or *does not inform the data subject of the progress* and/or outcome of a filed complaint in accordance with <<art77,Article 77>>.
 
 Proceedings against a supervisory authority *must be brought before the courts of the Member State* in which the supervisory authority is <<art3,established>>.
+
+[#art79]
+== Article 79: Right to an effective judicial remedy against a controller or processor
+
+_See also <<art77,Article 77>>._
+
+All natural or legal persons have *the right to an effective judicial remedy* against a controller or processor *when their rights have been infringed upon* as a result of non-Regulation-compliant processing.
+
+Proceedings against a supervisory authority *must be brought before the courts of a Member State* in which the controller or processor has an establishment, or of the Member State of *the data subject's residence*, *unless the controller or processor is a public authority* acting in the exercise of its public powers.
