@@ -1008,7 +1008,7 @@ Member States may determine further special conditions for the processing, with 
 [#art89]
 == Article 89: Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes
 
-=== TODO
+Processing for archiving purposes in the public interest or for research purposes *must be subject to appropriate privacy safeguards*, including but not limited to <<pseudonymization,pseudonymization>> and <<art5,data minimization>> (see also <<art25,Article 25>>); European Union or Member State law may provide certain exceptions to these rules if they are likely to *impair or render impossible the fulfillment* of the specified purpose.
 
 [#art90]
 == Article 90: Obligations of secrecy
