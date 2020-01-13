@@ -427,7 +427,7 @@ Adherence to <<art40,approved codes of conduct>> or <<art42,approved certificati
 [#art25]
 == Article 25: Data protection by design and by default
 
-[quote]
+[quote,Article 25]
 ____
 Taking into account the state of the art, the cost of implementation and the nature, scope, context and purposes of processing as well as the risks ... for rights and freedoms of natural persons posed by the processing, *the controller shall ... implement appropriate ... measures, such as pseudonymisation, which are designed to implement data-protection principles, such as data minimisation, in an effective manner* ... in order to meet the requirements of this Regulation and protect the rights of data subjects.
 
@@ -1041,3 +1041,9 @@ The European Commission shall be assisted by a committee, as specified by https:
 == Article 95: Relationship with Directive 2002/58/EC
 
 _See also: https://eur-lex.europa.eu/eli/dir/2002/58/2009-12-19[Privacy and Electronic Communications Directive (Directive 2002/58/EC)]._
+
+[#art96]
+== Article 96: Relationship with previously concluded Agreements
+
+[quote,Article 96]
+International agreements involving the transfer of personal data to third countries or international organisations which were concluded by Member States prior to 24 May 2016, and which comply with Union law as applicable prior to that date, shall remain in force until amended, replaced or revoked.
