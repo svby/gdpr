@@ -791,3 +791,14 @@ Supervisory authorities shall *assist and provide all relevant information* to e
 The requested supervisory authority *must respond to the request* and, if it refuses to comply, *must provide reasons for said refusal*.
 
 Supervisory authorities *may not charge a few for any action taken* as part of a request for mutual assistance, unless both parties have agreed on compensation.
+
+[#art62]
+== Article 62: Joint operations of supervisory authorities
+
+Supervisory authorities may *conduct joint operations*, including _joint investigations_ and _enforcement measures_ in which *members or staff of other Member States' supervisory authorities* are involved; in cases where a controller or processor has *establishments in multiple Member States*, or data subjects in multiple Member States are likely to be *significantly affected by data processing*, the supervisory authorities of each of those Member States have the right to *participate in joint operations*.
+
+The host supervisory authority *may additionally confer powers* on any other involved supervisory authorities' members or staff involved in joint operations.footnote:[This process must first be authorized by the seconding supervisory authority.]
+
+The seconding supervisory authority's members are *subject to the Member State law of the host supervisory authority*. The host Member State assumes responsibility for the actions of said members and *is liable for any damage caused by them as part of their operations*; the Member State of the seconding supervisory authority *must reimburse any sums it has paid* to persons entitled on its behalf.
+
+_See also <<art66,Article 66>>_.
