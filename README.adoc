@@ -1031,3 +1031,8 @@ Delegated acts may only enter into force if *neither the European Parliament nor
 == Article 93: Committee procedure
 
 The European Commission shall be assisted by a committee, as specified by https://eur-lex.europa.eu/eli/reg/2011/182/oj[Regulation (EU) No 182/2011].
+
+[#art94]
+== Article 94: Repeal of Directive 95/46/EC
+
+*Starting on 25 May 2018*, the *1995 Data Protection Directive* (https://eur-lex.europa.eu/eli/dir/1995/46/oj[Directive 95/46/EC]) is no longer in effect. References to said Directive are to be interpreted as references to the GDPR; the *Working Party on the Protection of Individuals* as specified by Article 29 of the Directive has been effectively replaced by the <<art68,European Data Protection Board>>.
