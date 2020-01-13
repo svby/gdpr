@@ -802,7 +802,7 @@ If any of the other supervisory authorities concerned expresses a *relevant and 
 
 Otherwise, all involved supervisory authorities *are considered in agreement* with the draft decision and are bound by it; the decision is then adopted by the lead supervisory authority.
 
-The Board and other supervisory authorities *must be informed of any adopted or rejected decisions*, as well as provided *a summary of the relevant information*. After being notified of a decision, the controller and/or processor must ensure that it fully complies with said decision, and *inform the supervisory authority of all tasks it has taken* to comply.
+<<art68,The Board>> and other supervisory authorities *must be informed of any adopted or rejected decisions*, as well as provided *a summary of the relevant information*. After being notified of a decision, the controller and/or processor must ensure that it fully complies with said decision, and *inform the supervisory authority of all tasks it has taken* to comply.
 
 _See also <<art66,Article 66>>_.
 
@@ -833,3 +833,41 @@ _See also <<art66,Article 66>>_.
 == Article 63: Consistency mechanism
 
 In order to ensure the consistent application of the GDPR, supervisory authorities must cooperate with each other as necessary.
+
+[#art64]
+== Article 64: Opinion of the Board
+
+_See also <<art68,Article 68>>._
+
+=== TODO
+
+[#art65]
+== Article 65: Dispute resolution by the Board
+
+_See also <<art68,Article 68>>._
+
+ the cases referred to in Article 65,  the European Data Protection Supervisor shall have voting rights only on decisions which concern  principles and  rules  applicable to  the  Union  institutions, bodies, offices  and  agencies  which correspond in substance to those of this Regulation.
+
+=== TODO
+
+[#art66]
+== Article 66: Urgency procedure
+
+=== TODO
+
+[#art67]
+== Article 67: Exchange of information
+
+=== TODO
+
+[#art68]
+== Article 68: European Data Protection Board
+
+This article *establishes the European Data Protection Board* as a body of the European Union.
+
+The Board:
+
+. is represented by <<art73,its Chair>>
+. is composed of *the head of one supervisory authority from each Member State*, and of the European Data Protection Supervisor, or of their respective representatives; if multiple supervisory authorities are responsible for monitoring Regulation compliance in a given Member State, they may *appoint a joint representative*
+
+The European Commission *has the right to participate in Board activities* by means of an appointed representative, without voting rights.
