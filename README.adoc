@@ -1057,3 +1057,9 @@ In particular, the European Commission must examine:
 
 . the application of Chapter V regarding the transfer of personal to third countries or international organizations (see Articles <<art44,44>>, <<art45,45>>, <<art46,46>>, <<art47,47>>, <<art48,48>>, <<art49,49>> and <<art50,50>>)
 . the application of Chapter VII regarding cooperation and consistency (see Articles <<art60,60>>, <<art61,61>>, <<art62,62>>, <<art63,63>>, <<art64,64>>, <<art65,65>>, <<art66,66>> and <<art67,67>>)
+
+[#art98]
+== Article 98: Review of other Union legal acts on data protection
+
+[quote,Article 98]
+The Commission shall, if appropriate, submit legislative proposals with a view to amending other Union legal acts on the protection of personal data, *in order to ensure uniform and consistent protection of natural persons* with regard to processing. This shall in particular concern the rules relating to the protection of  natural persons with regard to processing by Union institutions, bodies, offices and agencies and on the free movement of such data.
