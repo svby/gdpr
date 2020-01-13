@@ -684,6 +684,8 @@ The European Commission and <<supervisory-authority,supervisory authorities>> wi
 [#art51]
 == Article 51: Supervisory authority
 
+_See also <<art57,Article 57>>._
+
 [#supervisory-authority]
 supervisory authority::
 an independent public authority *responsible for monitoring Regulation compliance* in order to protect the rights and freedoms of data subjects, and to *facilitate the free flow of personal data* within the European Union.
@@ -732,3 +734,24 @@ CAUTION: This article does not apply *to processing _carried out by public autho
 The <<art51,supervisory authority>> of the controller or processor's <<main-establishment,main establishment>> is authorized to act as the *lead supervisory authority* for any cross-border processing carried out by said controller or processor; however, such a supervisory authority is authorized to handle filed complaints *only if said note concerns the Member State in which it is established*. In such cases, the supervisory authority must inform the lead supervisory authority without delay.
 
 Within *three weeks from the time of receipt* of a complaint, the lead supervisory authority *must decide whether it will handle the case*, taking into account the rules for cooperation specified in <<art60,Article 60>>. If it decides not to handle the case, *the supervisory authority which informed it must handle the case instead*, as specified by Articles <<art61,61>> and <<art62,62>>.
+
+[#art57]
+== Article 57: Tasks
+
+A supervisory authority is, *on its territory*, obligated to, among others:
+
+. monitor and enforce GDPR compliance
+. advise national institutions and bodies on relevant legislative and administrative measures
+. handle and investigate complaints filed by data subjects or other entities in accordance with <<art80,Article 80>>
+. cooperate with, and provide information an assistance to, other supervisory authorities
+. provide information to data subjects, concerning their rights under the GDPR, by request
+. make controllers and/or processors aware of their obligations under the GDPR
+. promote *public awareness and understanding of data protection rights*, especially to children
+. adopt and authorize <<art28-standard-clauses,standard contractual clauses>> (see also <<art46,Article 46>>)
+. approve <<art47,binding corporate rules>>
+. maintain *a list of requirements* for <<art35,data protection impact assessments>>
+. *keep record of infringements of the Regulation* (see <<art58,Article 58>>)
+
+Supervisory authorities *must provide a method by which complaints can be submitted*, e.g. an electronic complains submission form.
+
+The tasks of a supervisory authority must be *carried out free of charge* for the data subject and <<art37,data protection officer>>; they may nonetheless charge *a reasonable fee* if the requests are demonstrated to be manifestly *unfounded or excessive*.
