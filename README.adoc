@@ -876,3 +876,26 @@ The European Commission *has the right to participate in Board activities* by me
 == Article 69: Independence
 
 The Board *must act independently* when performing its tasks or exercising its powers, and *shall neither seek nor take instructions* from a third party.
+
+[#art70]
+== Article 70: Tasks of the Board
+
+=== TODO
+
+[#art71]
+== Article 71: Reports
+
+_See also <<art68,Article 68>>._
+
+The Board must *prepare an annual report regarding the protection of the personal data of natural persons within the European Union* and in any relevant third countries or international organizations; this report must include a review of the application of the guidelines laid down by <<art70,Article 70>> and of any binding decisions made in accordance with <<art65,Article 65>>.
+
+[#art72]
+== Article 72: Procedure
+
+Board decisions are *approved by a simple majority* unless otherwise specified; board *rules of procedure are adopted by a two-thirds supermajority* of its members.
+
+[#art73]
+== Article 73: Chair
+
+. The Board *elects a chair* and *two deputy chairs* from amongst its members *by simple majority*.
+. The position of Chair has *a term limit of five years*, renewable once.
