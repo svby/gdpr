@@ -659,3 +659,13 @@ The appropriate safeguards may be provided for, without any requirement for auth
 _See also <<art63,Article 63>>._
 
 Authorizations by the European Commission, a Member State, or a <<art4-supervisory-authority,supervisory authority>> remain *valid until amended, replaced or repealed*.
+
+[#art47]
+== Article 47: Binding corporate rules
+
+=== TODO
+
+[#art48]
+== Article 48: Transfers or disclosures not authorised by Union law
+
+Any judgement of a court or administrative authority of a third country *requiring a controller and/or processor to transfer or  disclose personal data* is only enforceable *if it is based on an international agreement*, such as a mutual legal assistance treaty, in force between said third country and the European Union or a Member State.
