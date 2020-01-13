@@ -465,6 +465,7 @@ Processing of personal data by a processor is governed by a binding, written con
 
 Adherence to <<art40,approved codes of conduct>> or <<art42,approved certification mechanisms>> may be used to demonstrate Regulation compliance.
 
+[#art28-standard-clauses]
 The European Commission or a <<art4-supervisory-authority,supervisory authority>> may offer or adopt *standard contractual clauses* footnote:[https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en[European Commission: Standard Contractual Clauses]] that can be used as a basis for a contract between the controller and processor.
 
 *If a processor violates the GDPR by determining the purposes and/or means of processing, it is considered a controller for the purposes of that processing*.
@@ -620,3 +621,41 @@ _See also <<art40,Article 42>>._
 == Article 44: General principle for transfers
 
 Any transfer of personal data that is currently, or will be, undergoing processing after transfer to a third country or to an international organization *may only take place if the conditions laid down in Chapter V of the GDPR* (Articles <<art44,44>>, <<art45,45>>, <<art46,46>>, <<art47,47>>, <<art48,48>>, <<art49,49>> and <<art50,50>>) *are complied with* by the controller and processor, *including for onward transfers of personal data* from the third country or an international organization to another third country or to another internat­ional organization.
+
+[#art45]
+== Article 45: Transfers on the basis of an adequacy decision
+
+Transfers of personal data to a third country or international organization may take place if the European Commission decides that the target entity *ensures an adequate level of protection*; if this is the case, no specific authorization is required for the transfer.
+
+The following aspects are taken into account by the European Commission when assessing the adequacy of the provided level of protection:
+
+. *the rule of law*, respect for human rights and freedoms
+. legislation concerning *national and public security, defense, criminal law, and the access of public authorities to personal data*, including the implementation of said legislation, data protection rules, and security measures; this includes *rules for the further transfer of personal data* to another third country or international organization, as well as *data subject rights*
+. the existence of any independent <<art4-supervisory-authority,supervisory authorities>> responsible for *ensuring and enforcing compliance* with data protection rules
+. any international commitments the third country or international organization has entered into, particularly those which relate to the protection of personal data
+
+After an adequacy assessment is made, *the European Commission may declare that the third country or international organization ensures an adequate level of data protection* by passing an https://ec.europa.eu/info/law/law-making-process/adopting-eu-law/implementing-and-delegated-acts_en[implementing act];footnote:[This procedure is subject to the requirements laid down by Articles 5 and 8 of https://eur-lex.europa.eu/eli/reg/2011/182/oj[Regulation (EU) No 182/2011] ("the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers")] this act must provide a process of periodic review of the entity's adequacy, which must take place *at least every four years*; it may also identify a <<art4-supervisory-authority,supervisory authority>>, if relevant. If it is found that the entity no longer provides an adequate level of data protection, the European Commission shall *repeal or amend its decision*. This _does not affect_ the transfer of data to said entity in accordance with Articles <<art46,46>>, <<art47,47>>, <<art48,48>> and <<art49,49>>.
+
+The list of approved third countries and international organizations is published in the Official Journal of the European Union and on the website of the European Commission. footnote:[https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en[European Commission: Adequacy decisions]]footnote:[https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/eu-us-data-transfers_en[European Commission: EU-US Privacy Shield]]
+
+[#art46]
+== Article 46: Transfers subject to appropriate safeguards
+
+If no relevant <<art45,adequacy decision>> has been made, a controller or processor may only transfer personal data to a third country or international organization if said controller or processor *has provided appropriate safeguards*, and data subjects' rights are enforceable.
+
+The appropriate safeguards may be provided for, without any requirement for authorization from a <<art4-supervisory-authority,supervisory authority>>, by:
+
+. an *enforceable, legally binding agreement* between public authorities
+. <<art47,binding corporate rules (Article 47)>>
+. <<art28-standard-clauses,standard data protection clauses>> adopted by the European Commission or by a supervisory authority
+. an approved, binding and enforceable <<art40,code of conduct (Article 40)>>
+. an approved, binding and enforceable <<art42,certification mechanism (Article 42)>>
+
+*Subject to authorization from a competent <<art4-supervisory-authority,supervisory authority>>*, appropriate safeguards may also be provided for by:
+
+. *contractual clauses between the controller or processor and the recipient* (controller, processor or other) of the personal data in the third country or international organization
+. administrative arrangements between public authorities *which include enforceable and effective data subject rights*
+
+_See also <<art63,Article 63>>._
+
+Authorizations by the European Commission, a Member State, or a <<art4-supervisory-authority,supervisory authority>> remain *valid until amended, replaced or repealed*.
