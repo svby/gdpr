@@ -899,3 +899,16 @@ Board decisions are *approved by a simple majority* unless otherwise specified; 
 
 . The Board *elects a chair* and *two deputy chairs* from amongst its members *by simple majority*.
 . The position of Chair has *a term limit of five years*, renewable once.
+
+[#art74]
+== Article 74: Tasks of the Chair
+
+_See also: <<art73,Article 73>>._
+
+The Chair has the following tasks:
+
+. to *convene of Board meetings* and the preparation of its agenda
+. to *notify the <<art56,lead supervisory authority>>* of decisions adopted by the Board
+. to ensure the *timely performance of tasks* (see also <<art63,Article 63>>)
+
+The Board shall specify in its <<art72,rules of procedure>> the distribution of tasks between the Chair and deputy chairs.
