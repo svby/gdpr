@@ -557,7 +557,7 @@ The data subject is not required to be informed of a data breach if at least one
 . Assessments should be carried out with help of the data protection officer, where designated.
 . This is specifically needed in case of:
 .. evaluations of personal aspects of a natural person, used for processing (and profiling), which produce legal effects or similarly significantly affects to the person.
-.. processing on a large scale of special categories of data <<art9,Article 9(1)>> or personal data relating to criminal convictions and offences <<art10,Article 10>>  
+.. processing on a large scale of special categories of data <<art9,Article 9(1)>> or personal data relating to criminal convictions and offences <<art10,Article 10>>
 .. large scale systematic monitoring of a public area
 . The Assessment has to contain at least:
 .. a description of the processing operations
@@ -865,8 +865,6 @@ _See also <<art68,Article 68>>._
 == Article 65: Dispute resolution by the Board
 
 _See also <<art68,Article 68>>._
-
- the cases referred to in Article 65,  the European Data Protection Supervisor shall have voting rights only on decisions which concern  principles and  rules  applicable to  the  Union  institutions, bodies, offices  and  agencies  which correspond in substance to those of this Regulation.
 
 === TODO
 
