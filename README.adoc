@@ -742,10 +742,10 @@ Within *three weeks from the time of receipt* of a complaint, the lead superviso
 A supervisory authority is, *on its territory*, obligated to, among others:
 
 . monitor and enforce GDPR compliance
-. advise national institutions and bodies on relevant legislative and administrative measures
-. handle and investigate complaints filed by data subjects or other entities in accordance with <<art80,Article 80>>
+. *advise national institutions and bodies* on relevant legislative and administrative measures
+. *handle and investigate complaints* filed by data subjects or other entities in accordance with <<art80,Article 80>>
 . cooperate with, and provide information an assistance to, other supervisory authorities
-. provide information to data subjects, concerning their rights under the GDPR, by request
+. *provide information to data subjects*, concerning their rights under the GDPR, by request
 . make controllers and/or processors aware of their obligations under the GDPR
 . promote *public awareness and understanding of data protection rights*, especially to children
 . adopt and authorize <<art28-standard-clauses,standard contractual clauses>> (see also <<art46,Article 46>>)
@@ -765,6 +765,8 @@ A supervisory authority *must compile annual reports of its activities*, to be m
 [#art60]
 == Article 60: Cooperation between the lead supervisory authority and the other supervisory authorities concerned
 
+_See also <<art61,Article 61>>._
+
 The *<<art56,lead supervisory authority>>* must cooperate with other supervisory authorities *in order to reach consensus*, and may request assistance from them in accordance with Articles <<art61,61>> and <<art62,62>>, in particular for the purpose of *monitoring or investigation of a controller or processor* established in another Member State; the <<#supervisory-authority-concerned,supervisory authorities concerned>> must *exchange all relevant information* with each other without delay.
 
 If any of the other supervisory authorities concerned expresses a *relevant and reasoned objection* to a draft decision, the lead supervisory authority must:
@@ -777,3 +779,15 @@ Otherwise, all involved supervisory authorities *are considered in agreement* wi
 The Board and other supervisory authorities *must be informed of any adopted or rejected decisions*, as well as provided *a summary of the relevant information*. After being notified of a decision, the controller and/or processor must ensure that it fully complies with said decision, and *inform the supervisory authority of all tasks it has taken* to comply.
 
 _See also <<art66,Article 66>>_.
+
+[#art61]
+== Article 61: Mutual assistance
+
+Supervisory authorities shall *assist and provide all relevant information* to each other (see <<art63,Chapter VII, Section 2>>); requests for assistance *must contain all necessary information*, including the purpose of the request. The requested supervisory authority may not decline the request, unless:
+
+. it is not authorized to comply
+. compliance with the request would violate this Regulation or European Union or Member state law
+
+The requested supervisory authority *must respond to the request* and, if it refuses to comply, *must provide reasons for said refusal*.
+
+Supervisory authorities *may not charge a few for any action taken* as part of a request for mutual assistance, unless both parties have agreed on compensation.
