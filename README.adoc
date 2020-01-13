@@ -978,7 +978,36 @@ If multiple controllers or processors are involved in the same processing and ar
 [#art83]
 == Article 83: General conditions for imposing administrative fines
 
-=== TODO
+<<art51,Supervisory authorities>> must  ensure that any *administrative fines* imposed for infringements of the GDPR are considered *effective, proportionate and dissuasive*.
+
+When deciding whether to impose an administrative fine, the supervisory authority must take into account:
+
+. the nature, scope or purpose of the processing, the number of data subjects affected, and the level of damage caused
+. any action taken by the controller or processor to mitigate the damage
+. the *degree of responsibility of the controller or processor*, taking into account measures implemented by them in accordance with Articles <<art25,25>> and <<art32,32>>
+. *any previous infringements* by the controller or processor
+. any cooperation with the supervisory authority to mitigate the damage
+. the categories of affected personal data
+. *the manner in which the infringement became known*
+. *previous compliance with supervisory powers specified in <<art58,Article 58>>*
+. adherence to <<art40,approved codes of conduct>> or <<art42,approved certification mechanisms>>
+. any other relevant factors
+
+Infringements of the following provisions are subject to administrative fines of *the greater of ten million Euro and 2% of the total worldwide annual turnover of the preceding year*, if applicable:
+
+. the basic obligations of the controller or processor (see Articles <<art8,8>>, <<art11,11>>, <<art25,25>>, <<art26,26>>, <<art27,27>>, <<art28,28>>, <<art29,29>>, <<art30,30>>, <<art31,31>>, <<art32,32>>, <<art33,33>>, <<art34,34>>, <<art35,35>>, <<art36,36>>, <<art37,37>>, <<art38,38>>, <<art39,39>>, <<art42,42>> and <<art43,43>>)
+. the obligations of the certification body (see Articles <<art42,42>> and <<art43,43>>)
+. the obligations of the monitoring body (see <<art41,Article 41>>)
+
+Infringements of the following provisions are subject to administrative fines of *the greater of twenty million Euro and 4% of the total worldwide annual turnover of the preceding year*, if applicable:
+
+. *basic principles for processing*, including conditions for consent (see Articles <<art5,5>>, <<art6,6>>, <<art7,7>> and <<art9,9>>)
+. data subjects' rights (see Articles <<art12,12>>, <<art13,13>>, <<art14,14>>, <<art15,15>>, <<art16,16>>, <<art17,17>>, <<art18,18>>, <<art19,19>>, <<art20,20>>, <<art21,21>> and <<art22,22>>)
+. transfers of personal data to a third country or international organization (see Articles <<art44,44>>, <<art45,45>>, <<art46,46>>, <<art47,47>>, <<art48,48>> and <<art49,49>>)
+. compliance with an order to limit processing, to suspend the flow of data to a third country or international organization or to provide access (see <<art58,Article 58>>)
+. other relevant Member State laws
+
+Non-compliance with <<art58,an order by a supervisory authority>> is subject to administrative fines of *the greater of twenty million euro and 4% of the total worldwide annual turnover of the preceding year*, if applicable.
 
 [#art84]
 == Article 84: Penalties
