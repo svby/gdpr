@@ -869,3 +869,8 @@ The Board:
 . is composed of *the head of one supervisory authority from each Member State*, and of the European Data Protection Supervisor, or of their respective representatives; if multiple supervisory authorities are responsible for monitoring Regulation compliance in a given Member State, they may *appoint a joint representative*
 
 The European Commission *has the right to participate in Board activities* by means of an appointed representative, without voting rights.
+
+[#art69]
+== Article 69: Independence
+
+The Board *must act independently* when performing its tasks or exercising its powers, and *shall neither seek nor take instructions* from a third party.
