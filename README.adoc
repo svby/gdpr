@@ -971,7 +971,9 @@ Proceedings are deemed to be related where they are so closely connected that it
 [#art82]
 == Article 82: Right to compensation and liability
 
-=== TODO
+Any person who has suffered as a result of an infringement of the GDPR *has the right to receive compensation* from the controller or processor; processors are only liable for any damage caused if it has not complied with elements of the GDPR that specifically target processors, or if it has acted *without proper authorization from the controller*.
+
+If multiple controllers or processors are involved in the same processing and are responsible for any damage caused, *they must all be held liable* for said damage; each controller or processor is entitled to claim back their part of the compensation from the other controllers or processors involved.
 
 [#art83]
 == Article 83: General conditions for imposing administrative fines
