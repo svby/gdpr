@@ -198,7 +198,7 @@ _See also <<information-society-service,information society services>>._
 
 If the data subject is a child, and has consented to the processing of their personal data, said processing is legal if:
 
-. the data subject is at least 16 years old footnote:[Member States may provide lower ages, provided that said age is not below 13 years.]
+. the data subject is at least 16 years old; Member States may provide lower ages, *provided that said age is not below 13 years*.
 . consent has been given by the child's legal guardian
 .. The controller must *make reasonable efforts* to verify that any given consent has been properly authorized.
 
@@ -1036,3 +1036,8 @@ The European Commission shall be assisted by a committee, as specified by https:
 == Article 94: Repeal of Directive 95/46/EC
 
 *Starting on 25 May 2018*, the *1995 Data Protection Directive* (https://eur-lex.europa.eu/eli/dir/1995/46/oj[Directive 95/46/EC]) is no longer in effect. References to said Directive are to be interpreted as references to the GDPR; the *Working Party on the Protection of Individuals* as specified by Article 29 of the Directive has been effectively replaced by the <<art68,European Data Protection Board>>.
+
+[#art95]
+== Article 95: Relationship with Directive 2002/58/EC
+
+_See also: https://eur-lex.europa.eu/eli/dir/2002/58/2009-12-19[Privacy and Electronic Communications Directive (Directive 2002/58/EC)]._
