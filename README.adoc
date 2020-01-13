@@ -696,3 +696,15 @@ Cooperation between supervisory authorities and the European Commission is *subj
 Each <<supervisory-authority,supervisory authority>> must act independently to perform its tasks; members must remain *free from external influence* and *must not seek or accept instructions* from third parties and may not engage in any occupation *incompatible with the tasks* of the supervisory authority.
 
 Member States must ensure that supervisory authorities are provided with necessary *infrastructure and human, technical and financial resources*, as well as allocated separate, public annual budgets.
+
+[#art53]
+== Article 53: General conditions for the members of the supervisory authority
+
+Members of a supervisory authority of a given Member State are appointed by:
+
+. the State parliament
+. the State government
+. the head of State
+. an independent body *authorized to do so under Member State law*
+
+All members *must be sufficiently qualified* to perform the duties of the supervisory authority.
