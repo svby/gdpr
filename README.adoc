@@ -119,11 +119,12 @@ a controlling *undertaking* and its controlled undertakings
 footnote:[https://uk.practicallaw.thomsonreuters.com/w-014-8183[Practical Law: group of undertakings]]
 
 binding corporate rules::
-data protection policies which are followed by a controller or processor established in a Member State for *transfers of personal data to a controller or processor in a third country* within a group of undertakings.
+data protection policies which are followed by a controller or processor established in a Member State for *transfers of personal data to a controller or processor in a third country* within a group of undertakings (see also <<art47,Article 47>>).
 
 supervisory authority::
 see <<art51,Article 51>>
 
+[#supervisory-authority-concerned]
 supervisory authority concerned::
 a supervisory authority *concerned by* the processing of personal data because:
 
@@ -761,22 +762,173 @@ Within *three weeks from the time of receipt* of a complaint, the lead superviso
 A supervisory authority is, *on its territory*, obligated to, among others:
 
 . monitor and enforce GDPR compliance
-. advise national institutions and bodies on relevant legislative and administrative measures
-. handle and investigate complaints filed by data subjects or other entities in accordance with <<art80,Article 80>>
+. *advise national institutions and bodies* on relevant legislative and administrative measures
+. *handle and investigate complaints* filed by data subjects or other entities in accordance with <<art80,Article 80>>
 . cooperate with, and provide information an assistance to, other supervisory authorities
-. provide information to data subjects, concerning their rights under the GDPR, by request
+. *provide information to data subjects*, concerning their rights under the GDPR, by request
 . make controllers and/or processors aware of their obligations under the GDPR
 . promote *public awareness and understanding of data protection rights*, especially to children
 . adopt and authorize <<art28-standard-clauses,standard contractual clauses>> (see also <<art46,Article 46>>)
 . approve <<art47,binding corporate rules>>
 . maintain *a list of requirements* for <<art35,data protection impact assessments>>
-. *keep record of infringements of the Regulation* (see <<art58,Article 58>>)
+. *keep record of infringements of the Regulation* (see also <<art58,Article 58>>)
 
 Supervisory authorities *must provide a method by which complaints can be submitted*, e.g. an electronic complains submission form.
 
 The tasks of a supervisory authority must be *carried out free of charge* for the data subject and <<art37,data protection officer>>; they may nonetheless charge *a reasonable fee* if the requests are demonstrated to be manifestly *unfounded or excessive*.
 
+[#art58]
+== Article 58: Powers
+
+Supervisory authorities have *the following powers*:
+
+. to order the controller and/or processor and their respective representative(s) *to provide any required information*, including *access to all required personal data* and *to all premises and processing equipment* of the controller and/or processor
+. to carry out *data protection audits* and review <<art42,data protection certification mechanisms>>
+. to *notify the controller or processor* of an alleged infringement of the Regulation, or to issue warnings to such entities that *intended processing is likely to infringe upon the GDPR*, or to take appropriate corrective action
+. to order the controller or processor *to comply with a data subject's requests* to exercise their data rights
+. to order the controller or processor to *bring processing operations into Regulation compliance* within a specified time period
+. to order the controller to inform the data subject of a personal data breach (see <<art33,Article 33>>)
+. to impose *a restriction or ban on processing* or <<art44,*transfer of personal data to a third country* or international organization>>
+. to order the *<<art16,rectification>>, <<art17,erasure>>, or <<art18,restriction of processing>>* of personal data in accordance with <<art19,Article 19>>
+. to issue <<art42,certifications>> and accredit <<art43,certification bodies>>
+. to order withdrawal of a certification (see Articles <<art42,42>> and <<art43,43>>)
+. to impose <<art83,an administrative fine>>
+. to adopt <<art28-standard-clauses,standard data protection clauses>> and authorize <<art46,contractual clauses>>
+. to authorize _administrative arrangements_, as specified in <<art46,Article 46>>
+. to advise the controller (see <<art36,Article 36>>)
+. *to issue opinions to the public and to national authorities* and bodies, in accordance with Member State law, on any issue related to data protection
+. to approve <<art47,binding corporate rules>>
+
+Supervisory authorities must be given the power to *bring infringements of the Regulation to the attention of judicial authorities,* and, if necessary for enforcement, to engage in legal proceedings.
+
+Member State law *may grant additional powers* to its respective supervisory authority.
+
 [#art59]
 == Article 59: Activity reports
 
 A supervisory authority *must compile annual reports of its activities*, to be made public and transmitted to national authorities as designated by Member State law.
+
+[#art60]
+== Article 60: Cooperation between the lead supervisory authority and the other supervisory authorities concerned
+
+_See also <<art61,Article 61>>._
+
+The *<<art56,lead supervisory authority>>* must cooperate with other supervisory authorities *in order to reach consensus*, and may request assistance from them in accordance with Articles <<art61,61>> and <<art62,62>>, in particular for the purpose of *monitoring or investigation of a controller or processor* established in another Member State; the <<#supervisory-authority-concerned,supervisory authorities concerned>> must *exchange all relevant information* with each other without delay.
+
+If any of the other supervisory authorities concerned expresses a *relevant and reasoned objection* to a draft decision, the lead supervisory authority must:
+
+. if it accepts the objection, submit a revised draft decision *within 2 weeks*
+. otherwise, *it may* <<art64,*request examination* by the European Data Protection Board>> as specified in Articles <<art63,63>>, <<art64,64>> and <<art65,65>>
+
+Otherwise, all involved supervisory authorities *are considered in agreement* with the draft decision and are bound by it; the decision is then adopted by the lead supervisory authority.
+
+<<art68,The Board>> and other supervisory authorities *must be informed of any adopted or rejected decisions*, as well as provided *a summary of the relevant information*. After being notified of a decision, the controller and/or processor must ensure that it fully complies with said decision, and *inform the supervisory authority of all tasks it has taken* to comply.
+
+_See also <<art66,Article 66>>_.
+
+[#art61]
+== Article 61: Mutual assistance
+
+Supervisory authorities shall *assist and provide all relevant information* to each other (see <<art63,Chapter VII, Section 2>>); requests for assistance *must contain all necessary information*, including the purpose of the request. The requested supervisory authority may not decline the request, unless:
+
+. it is not authorized to comply
+. compliance with the request would violate this Regulation or European Union or Member state law
+
+The requested supervisory authority *must respond to the request* and, if it refuses to comply, *must provide reasons for said refusal*.
+
+Supervisory authorities *may not charge a few for any action taken* as part of a request for mutual assistance, unless both parties have agreed on compensation.
+
+[#art62]
+== Article 62: Joint operations of supervisory authorities
+
+Supervisory authorities may *conduct joint operations*, including _joint investigations_ and _enforcement measures_ in which *members or staff of other Member States' supervisory authorities* are involved; in cases where a controller or processor has *establishments in multiple Member States*, or data subjects in multiple Member States are likely to be *significantly affected by data processing*, the supervisory authorities of each of those Member States have the right to *participate in joint operations*.
+
+The host supervisory authority *may additionally confer powers* on any other involved supervisory authorities' members or staff involved in joint operations.footnote:[This process must first be authorized by the seconding supervisory authority.]
+
+The seconding supervisory authority's members are *subject to the Member State law of the host supervisory authority*. The host Member State assumes responsibility for the actions of said members and *is liable for any damage caused by them as part of their operations*; the Member State of the seconding supervisory authority *must reimburse any sums it has paid* to persons entitled on its behalf.
+
+_See also <<art66,Article 66>>_.
+
+[#art63]
+== Article 63: Consistency mechanism
+
+In order to ensure the consistent application of the GDPR, supervisory authorities must cooperate with each other as necessary.
+
+[#art64]
+== Article 64: Opinion of the Board
+
+_See also <<art68,Article 68>>._
+
+=== TODO
+
+[#art65]
+== Article 65: Dispute resolution by the Board
+
+_See also <<art68,Article 68>>._
+
+ the cases referred to in Article 65,  the European Data Protection Supervisor shall have voting rights only on decisions which concern  principles and  rules  applicable to  the  Union  institutions, bodies, offices  and  agencies  which correspond in substance to those of this Regulation.
+
+=== TODO
+
+[#art66]
+== Article 66: Urgency procedure
+
+=== TODO
+
+[#art67]
+== Article 67: Exchange of information
+
+=== TODO
+
+[#art68]
+== Article 68: European Data Protection Board
+
+This article *establishes the European Data Protection Board* as a body of the European Union.
+
+The Board:
+
+. is represented by <<art73,its Chair>>
+. is composed of *the head of one supervisory authority from each Member State*, and of the European Data Protection Supervisor, or of their respective representatives; if multiple supervisory authorities are responsible for monitoring Regulation compliance in a given Member State, they may *appoint a joint representative*
+
+The European Commission *has the right to participate in Board activities* by means of an appointed representative, without voting rights.
+
+[#art69]
+== Article 69: Independence
+
+The Board *must act independently* when performing its tasks or exercising its powers, and *shall neither seek nor take instructions* from a third party.
+
+[#art70]
+== Article 70: Tasks of the Board
+
+=== TODO
+
+[#art71]
+== Article 71: Reports
+
+_See also <<art68,Article 68>>._
+
+The Board must *prepare an annual report regarding the protection of the personal data of natural persons within the European Union* and in any relevant third countries or international organizations; this report must include a review of the application of the guidelines laid down by <<art70,Article 70>> and of any binding decisions made in accordance with <<art65,Article 65>>.
+
+[#art72]
+== Article 72: Procedure
+
+Board decisions are *approved by a simple majority* unless otherwise specified; board *rules of procedure are adopted by a two-thirds supermajority* of its members.
+
+[#art73]
+== Article 73: Chair
+
+. The Board *elects a chair* and *two deputy chairs* from amongst its members *by simple majority*.
+. The position of Chair has *a term limit of five years*, renewable once.
+
+[#art74]
+== Article 74: Tasks of the Chair
+
+_See also: <<art73,Article 73>>._
+
+The Chair has the following tasks:
+
+. to *convene of Board meetings* and the preparation of its agenda
+. to *notify the <<art56,lead supervisory authority>>* of decisions adopted by the Board
+. to ensure the *timely performance of tasks* (see also <<art63,Article 63>>)
+
+The Board shall specify in its <<art72,rules of procedure>> the distribution of tasks between the Chair and deputy chairs.
