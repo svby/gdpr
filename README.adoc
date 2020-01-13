@@ -920,3 +920,8 @@ The Board must have a *secretariat* provided to it by the European Data Protecti
 . day-to-day business of the Board; this includes the preparation and follow-up of meetings and the *preparation and publication of opinions and decisions* adopted by the Board
 . *communication between the members of the Board, <<art74,the Chair>>, and the European Commission*, and with other institutions and the public
 . the translation of relevant information
+
+[#art76]
+== Article 76: Confidentiality
+
+Board discussions *may be made confidential by the Board* if deemed necessary. Access to Board documents is governed by https://eur-lex.europa.eu/eli/reg/2001/1049/oj[Regulation (EC) No 1049/2001].
