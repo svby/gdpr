@@ -590,8 +590,6 @@ The data subject is not required to be informed of a data breach if at least one
 . Member States should consult the supervisory authority if they prepare legislative measures to be adopted by national government
 . In case of data processing in relation to social protection and public health notwithstanding paragraph 1, controllers may be required to consult supervisory authority.
 
-=== TODO
-
 [#art37]
 == Article 37: Designation of the data protection officer
 
