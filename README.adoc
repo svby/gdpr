@@ -946,3 +946,14 @@ _See also <<art77,Article 77>>._
 All natural or legal persons have *the right to an effective judicial remedy* against a controller or processor *when their rights have been infringed upon* as a result of non-Regulation-compliant processing.
 
 Proceedings against a supervisory authority *must be brought before the courts of a Member State* in which the controller or processor has an establishment, or of the Member State of *the data subject's residence*, *unless the controller or processor is a public authority* acting in the exercise of its public powers.
+
+[#art80]
+== Article 80: Representation of data subjects
+
+Data subjects have the right to mandate a non-profit organization to file a complaint on their behalf, provided that said organization:
+
+. has been *properly constituted*
+. has *statutory objectives* which are in the public interest
+. is active in the field of data rights protection
+
+_See also Articles <<art77,77>>, <<art78,78>>, <<art79,79>> and <<art82,82>>._
