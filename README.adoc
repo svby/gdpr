@@ -689,3 +689,10 @@ supervisory authority::
 an independent public authority *responsible for monitoring Regulation compliance* in order to protect the rights and freedoms of data subjects, and to *facilitate the free flow of personal data* within the European Union.
 
 Cooperation between supervisory authorities and the European Commission is *subject to the consistency requirements* specified in Chapter VII, Section 2 of the GDPR (Articles <<art63,63>>, <<art64,64>>, <<art65,65>>, <<art66,66>>, and <<art67,67>>).
+
+[#art52]
+== Article 52: Independence
+
+Each <<supervisory-authority,supervisory authority>> must act independently to perform its tasks; members must remain *free from external influence* and *must not seek or accept instructions* from third parties and may not engage in any occupation *incompatible with the tasks* of the supervisory authority.
+
+Member States must ensure that supervisory authorities are provided with necessary *infrastructure and human, technical and financial resources*, as well as allocated separate, public annual budgets.
