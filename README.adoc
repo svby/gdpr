@@ -586,17 +586,20 @@ Where goods or services are offered, data subjects' behaviour is monitored, or t
 [#art36]
 == Article 36: Prior consultation
 
-. If a <<art35,data protection impact assessment>> results in a high risk if no measures are taken, the controller should consult supervisory authority
-. If the supervisory authority decides that the processing infringes this Regulation, especially when the risk has not been evaluated sufficiently, the supervisory authority has 8 weeks for consultation, provide written advice to the controller (and processor if applicable) and may use any of its <<art58,powers>>. If the case is complexer the period may be extended by up to 6 weeks, the controller/processor shall be informed of this extension after a month of receipt, including a reason for the delay. These periods may be suspended until the authority has obtained information it has requested for the consulation.
-. The controller must provide the authority with:
-.. Where applicable: The responsibilities of controller, joint controllers, processors involved in processing - in particular for processing within a group of undertakings
-.. The purposes and means of the intended processing
-.. The measures and safeguards for data protection
-.. Where applicable: Contact  of the data protection officer.
-.. The <<art35,data protection impact assessment provided>>
-.. Any other requested information
-. Member States should consult the supervisory authority if they prepare legislative measures to be adopted by national government
-. In case of data processing in relation to social protection and public health notwithstanding paragraph 1, controllers may be required to consult supervisory authority.
+If a *<<art35,data protection impact assessment>>* determines that data protection would result in *a high risk if no measures are taken*, the controller should consult the <<art51,supervisory authority>>.
+
+If the supervisory authority decides that the processing infringes the GDPR, especially when the risk has not been sufficiently evaluated, the supervisory authority has *8 weeks* footnote:[This may be extended by a further 6 weeks by request if the subject matter is deemed sufficiently complex.] to *provide written advice to the controller and/or processor* and may use any of its <<art58,powers>>.
+
+The controller must provide the supervisory authority with:
+
+. the responsibilities of any *controllers, joint controllers,  and processors* involved in processing, especially within a <<group-of-undertakings,group of undertakings>>
+. the *purposes and means* of the intended processing
+. any applicable *measures and safeguards* for data protection
+. the *contact details of the <<art37,data protection officer>>*, if applicable
+. the <<art35,data protection impact assessment>>
+. any other requested information
+
+In the case of data processing regarding *social protection and public health*, controllers may be required to consult the supervisory authority.
 
 [#art37]
 == Article 37: Designation of the data protection officer
