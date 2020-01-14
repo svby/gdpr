@@ -555,12 +555,42 @@ The data subject is not required to be informed of a data breach if at least one
 [#art35]
 == Article 35: Data protection impact assessment
 
-=== TODO
+. In case new technologies are used in processing, an assessment has to be carried out to evaluate the possible protection of personal data.
+. Assessments should be carried out with help of the data protection officer, where designated.
+. This is specifically needed in case of:
+.. evaluations of personal aspects of a natural person, used for processing (and profiling), which produce legal effects or similarly significantly affects to the person.
+.. processing on a large scale of special categories of data <<art9,Article 9(1)>> or personal data relating to criminal convictions and offences <<art10,Article 10>>  
+.. large scale systematic monitoring of a public area
+. The Assessment has to contain at least:
+.. a description of the processing operations
+.. the <<art5,purposes>> of the processing, inluding, where applicable, the interest of the controller
+.. an assessment of :
+... the neccessity and proportionality of the processing in relation to the <<art5,purposes>>.
+... the risks to the rights and freedoms of data subjects, see paragraph 1
+. Compliance with the approved codes of conduct referred in <<art40,Article 40>> shall be taken into account by both the controllers and processors
+. Where appropriate, the controller shall seek the opinon of the data subject, without prejudice to the protection of their own interest or the security of processing operations.
+. The supervisory authority shall release a list of:
+.. the kind of processing operations which require the impact assessment
+.. may also release a list of operations where no data protection impact assessment is required.
+.. both should be communiated the the Board <<art68,Article 68>>
+.. prior to the lists referred above, lists where goods or services are offered, data subjects behaviour is monitored, or the free movement of personal data in the Union is affected, shall apply the consistency mechanism referred in <<art63,Article 63>>
+. If there has already been an impact assessment in the context of the adoption carried out by the Union or their member states, and a law regulates this, <<art6,Article 6(1) (c/e)>>the above can be disregarded.
+. There should be reviews carried out by the controller, especially when the risks change.
 
 [#art36]
 == Article 36: Prior consultation
 
-=== TODO
+. If a <<art35,data protection impact assessment>> results in a high risk if no measures are taken, the controller should consult supervisory authority
+. If the supervisory authority decides that the processing infringes this Regulation, especially when the risk has not been evaluated sufficiently, the supervisory authority has 8 weeks for consultation, provide written advice to the controller (and processor if applicable) and may use any of its <<art58,powers>>. If the case is complexer the period may be extended by up to 6 weeks, the controller/processor shall be informed of this extension after a month of receipt, including a reason for the delay. These periods may be suspended until the authority has obtained information it has requested for the consulation.
+. The controller must provide the authority with:
+.. Where applicable: The responsibilities of controller, joint controllers, processors involved in processing - in particular for processing within a group of undertakings
+.. The purposes and means of the intended processing
+.. The measures and safeguards for data protection
+.. Where applicable: Contact  of the data protection officer.
+.. The <<art35,data protection impact assessment provided>>
+.. Any other requested information
+. Member States should consult the supervisory authority if they prepare legislative measures to be adopted by national government
+. In case of data processing in relation to social protection and public health notwithstanding paragraph 1, controllers may be required to consult supervisory authority.
 
 [#art37]
 == Article 37: Designation of the data protection officer
@@ -600,19 +630,56 @@ Data protection officers should *take into account any possible risk associated 
 [#art40]
 == Article 40: Codes of conduct
 
-=== TODO
+. The Member States, the supervisory authorities, the Board and the Commission shall encourage a proper code of conduct with proper application taking account the size of the enterprise.
+. Controllers and processors (or their representatives) may prepare codes of conduct, amend or extend such codes. This should include:
+.. fair and transparent processing
+.. the legitimate interests pursue by controllers in specific contexts
+.. the collection of personal data
+.. the pseudonymisation of personal data
+.. the information provided to the publich and to the data subjects
+.. the exercise of the rights of data subjects
+.. the handling of children in terms of data protection and information
+.. the measures and procedures referred to in <<art24,Article 24>> and <<art25,Article 25>> and the measures to ensure security of processing referred to in <<art32,Article 32>>
+.. the notification of data breaches to supervisory authorities and data subjects
+.. the transfer of personal data to third countries or international organisations
+.. dispute resolution procedures between controllers and data subjects with regard to processing, without prejudice of data subjects pursuant to <<art 77,Article 77>> and <<art79,Article79>>.
+. In addition to adherence by controllers or processors subject to this Regulation, also controllers and processors which are not part of <<art3,Article 3>> may adhere to provider proper safeguards within the framework of personal data transfers to third countries or international organisations under the terms referred to in point (e) of <<art 46,Article 46(2)>>. Those controllers should make bindings and commitments, via contractual or other legally binding instruments to apply those safeguards.
+. A code of conduct should include mechanisms which enable <<art41,the body>> to carry out mandatory monitoring by the controllers or processors, without prejucide to the tasks and powers of supervisory authorities <<art55,Article 55>>, <<art56,Article 56>>
+. Associations and other bodies which intend to edit or extend the code of conduct shall send it to the supervisory authority <<art55,Article 55>>, which them approves the changes if it provides sufficient safeguards.
+. Where the code of conduct (original or changed) do not relate to processing in several Member States, the supervisory authority shall register and publish the code.
+. If the processing extends into several Member States the supervisory authority has to send the code of conduct to the Board <<art63,Article63>> which provides opinion whether the code provides appropriate safeguards, according to paragraph 3.
+. If the board confirms that appropriate safeguards are given the opinion shall the submitted to the Commission.
+. The Commission then decides if the code of conduct has a general validity within the Union. Those implementing acts shall be adopted in accordance with the examination procedure set out in <<art93,Article 93(2)>>.
+. The Commission shall ensure appropriate publicity for approved codes
+. The Board shall collate all approved codes in a register which is publicly available.
 
 [#art41]
 == Article 41: Monitoring of approved codes of conduct
 
 _See also <<art40,Article 40>>._
 
-=== TODO
+. The person monitoring the code of conduct laid out in <<art40,Article 40>> should be done by a body which has an appropriate level of expertise in the subject manner. This should be done without prejudice to the asks and power of the supervisory authority under <<art57,Article 57>> and <<art58,Article58>>.
+. This body should monitor only:
+.. when proven the expertise regarding the subject
+.. established procedures, which allows for analysis of the data at hand.
+.. established procedures to help handle complaints about infringements as well as making those clear to the public
+.. has proven that actions do not result in a conflict of interests.
+. The supervisory authority shall submit the draft criteria for the supervising body (as mentioned in paragraph 1) to the Board taking the <<art63,consistency mechanism>> into consideration
+. If this body finds infringements of the code, they are to inform the supervisory authority about any actions they have taken towards the controller or processor (suspension/exclusion from the code) and why they have.
+. If the body is not operating according to the Regulation, the accreditation can be revoked by a supervisory authority.
+. This Article shall not apply to processing carried out by public authorities and bodies.
 
 [#art42]
 == Article 42: Certification
 
-=== TODO
+. The Member States, the supervisory authorities, the Board and the Commission shall encourage certifications for excelling in data protection. The needs for medium and smaller sized enterprises should be taken into account.
+. These Certifications are not bound to members within the Union and can also be given to subjects falling under <<art3,Article 3>>. _See also <<art46,Article 46(2) Point (f)>>_
+. The certifications should be voluntary and transparent.
+. The certification is not a reduction in responsibility. _See also <<art55,Article 55>> and <<art56,Article 56>>.
+. The certification should be issued by one of the bodies from <<art43,Article 43>>, as well as supervisory authority based on criteria on the basis of <<art58,Article 58(3)>> or by the Board based on <<art63,Article 63>>. As the Board approves this may result in a common certification, the European Data Protection Seal.
+. The controller or processor should provide the certification body (<<art43, Article 43>>) or supervisory authority (where applicable) when submitting to the certification mechanism, including access to all information which are needed to conduct a certification.
+. Certifications are to be handed out for 3 years, renewed when conditions are met and withdrawn when they are not.
+. All certification mechanisms and data protection seals/marks are to be stored in a publicly available register by the Board.
 
 [#art43]
 == Article 43: Certification bodies
