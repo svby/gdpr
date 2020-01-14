@@ -555,27 +555,33 @@ The data subject is not required to be informed of a data breach if at least one
 [#art35]
 == Article 35: Data protection impact assessment
 
-. In case new technologies are used in processing, an assessment has to be carried out to evaluate the possible protection of personal data.
-. Assessments should be carried out with help of the data protection officer, where designated.
-. This is specifically needed in case of:
-.. evaluations of personal aspects of a natural person, used for processing (and profiling), which produce legal effects or similarly significantly affects to the person.
-.. processing on a large scale of special categories of data <<art9,Article 9(1)>> or personal data relating to criminal convictions and offences <<art10,Article 10>>
-.. large scale systematic monitoring of a public area
-. The Assessment has to contain at least:
-.. a description of the processing operations
-.. the <<art5,purposes>> of the processing, inluding, where applicable, the interest of the controller
-.. an assessment of :
-... the neccessity and proportionality of the processing in relation to the <<art5,purposes>>.
-... the risks to the rights and freedoms of data subjects, see paragraph 1
-. Compliance with the approved codes of conduct referred in <<art40,Article 40>> shall be taken into account by both the controllers and processors
-. Where appropriate, the controller shall seek the opinon of the data subject, without prejudice to the protection of their own interest or the security of processing operations.
-. The supervisory authority shall release a list of:
-.. the kind of processing operations which require the impact assessment
-.. may also release a list of operations where no data protection impact assessment is required.
-.. both should be communiated the the Board <<art68,Article 68>>
-.. prior to the lists referred above, lists where goods or services are offered, data subjects behaviour is monitored, or the free movement of personal data in the Union is affected, shall apply the consistency mechanism referred in <<art63,Article 63>>
-. If there has already been an impact assessment in the context of the adoption carried out by the Union or their member states, and a law regulates this, <<art6,Article 6(1) (c/e)>>the above can be disregarded.
-. There should be reviews carried out by the controller, especially when the risks change.
+If new technologies are used in processing, *an assessment must be carried out* the extent to which personal data is protected. Assessments should be carried out with help of the <<art38,data protection officer>>, where designated.
+
+This is particularly needed in cases of:
+
+. evaluations of *personal aspects of a natural person*, used for processing and <<profiling,profiling>>, which significantly affect the person.
+. large-scale processing of <<art9,special categories>> of personal data or <<art10,data relating to criminal convictions and offenses>>
+. large-scale systematic *monitoring of a public area*
+
+The assessment must contain at least:
+
+. the *description and <<art5,purposes>> of the processing*, inluding the interest of the controller
+. an assessment of:
+.. the neccessity and proportionality of the processing in relation to the <<art5,purposes>>.
+.. the risks to the *rights and freedoms of data subjects*
+
+CAUTION: If there has already been an impact assessment carried out by the European Union or a Member State and is regulated by law, *the above does not apply*.
+
+*Compliance with the approved codes of conduct* (see <<art40,Article 40>>) shall be taken into account by both the controllers and processors.
+
+Where appropriate, the controller shall seek the opinon of the data subject, without prejudice to the protection of their own interest or the security of processing operations.
+
+The supervisory authority must release and communicate to <<art68,the Board>> a list of:
+
+. the *kinds of processing operations* which require such an impact assessment
+. optionally, a list of operations where no *impact assessment is required*.
+
+Where goods or services are offered, data subjects' behaviour is monitored, or the free movement of personal data is affected, the <<art55,competent supervisory authority>> must apply the consistency mechanism referred to in <<art63,Article 63>>.
 
 [#art36]
 == Article 36: Prior consultation
