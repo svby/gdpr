@@ -630,28 +630,26 @@ Data protection officers should *take into account any possible risk associated 
 [#art40]
 == Article 40: Codes of conduct
 
-. The Member States, the supervisory authorities, the Board and the Commission shall encourage a proper code of conduct with proper application taking account the size of the enterprise.
-. Controllers and processors (or their representatives) may prepare codes of conduct, amend or extend such codes. This should include:
-.. fair and transparent processing
-.. the legitimate interests pursue by controllers in specific contexts
-.. the collection of personal data
-.. the pseudonymisation of personal data
-.. the information provided to the publich and to the data subjects
-.. the exercise of the rights of data subjects
-.. the handling of children in terms of data protection and information
-.. the measures and procedures referred to in <<art24,Article 24>> and <<art25,Article 25>> and the measures to ensure security of processing referred to in <<art32,Article 32>>
-.. the notification of data breaches to supervisory authorities and data subjects
-.. the transfer of personal data to third countries or international organisations
-.. dispute resolution procedures between controllers and data subjects with regard to processing, without prejudice of data subjects pursuant to <<art 77,Article 77>> and <<art79,Article79>>.
-. In addition to adherence by controllers or processors subject to this Regulation, also controllers and processors which are not part of <<art3,Article 3>> may adhere to provider proper safeguards within the framework of personal data transfers to third countries or international organisations under the terms referred to in point (e) of <<art 46,Article 46(2)>>. Those controllers should make bindings and commitments, via contractual or other legally binding instruments to apply those safeguards.
-. A code of conduct should include mechanisms which enable <<art41,the body>> to carry out mandatory monitoring by the controllers or processors, without prejucide to the tasks and powers of supervisory authorities <<art55,Article 55>>, <<art56,Article 56>>
-. Associations and other bodies which intend to edit or extend the code of conduct shall send it to the supervisory authority <<art55,Article 55>>, which them approves the changes if it provides sufficient safeguards.
-. Where the code of conduct (original or changed) do not relate to processing in several Member States, the supervisory authority shall register and publish the code.
-. If the processing extends into several Member States the supervisory authority has to send the code of conduct to the Board <<art63,Article63>> which provides opinion whether the code provides appropriate safeguards, according to paragraph 3.
-. If the board confirms that appropriate safeguards are given the opinion shall the submitted to the Commission.
-. The Commission then decides if the code of conduct has a general validity within the Union. Those implementing acts shall be adopted in accordance with the examination procedure set out in <<art93,Article 93(2)>>.
-. The Commission shall ensure appropriate publicity for approved codes
-. The Board shall collate all approved codes in a register which is publicly available.
+Member States, their <<art51,supervisory authorities>>, <<art68,the Board>> and the European Commission shall encourage the *creation of proper codes of conduct*, taking account the size of the enterprise.
+
+Controllers and processors, or their respective representatives, *may prepare, amend or extend codes of conduct*; these should include:
+
+. fair and transparent processing
+. the *<<art5,legitimate interests>>* pursued by controllers in specific contexts
+. the collection and <<pseudonymization,pseudonymization>> of personal data
+. the *information provided to the public* and to the data subjects
+. the exercise of the rights of data subjects
+. the *handling of children* in terms of data protection and information
+. the measures and procedures referred to in Articles <<art24,24>> and <<art25,25>> and the measures to ensure *security of processing* referred to in <<art32,Article 32>>
+. the *<<art34,notification of data breaches>>* to supervisory authorities and data subjects
+. *the transfer of personal data to third countries* or international organizations (see <<art44,Article 44>>)
+. *dispute resolution* procedures between controllers and data subjects with regard to processing; see also <<art65,Article 65>>
+. In addition to adherence by controllers or processors subject to this Regulation, *controllers and processors which are not subject to the GDPR under <<art3,Article 3>>* may nonetheless adhere to standard codes of conduct in order to provide proper privacy safeguards for data transfers to third countries or international organizations in accordance with <<art 46,Article 46>>.
+. A code of conduct should include mechanisms which enable <<art41,the body>> to carry out *mandatory monitoring of compliance by the controllers or processors*, without prejudice to the tasks and powers of supervisory authorities (see Articles <<art55,55>> and <<art56,56>>).
+. Associations and other bodies which intend to *edit or extend the code of conduct* must send it to the <<art55,competent supervisory authority>> for approval.
+. Where the code of conduct *does not relate to processing in several Member States*, the supervisory authority shall register and publish the code.
+. If the processing *extends into several Member States*, the supervisory authority must send the code of conduct to <<art68,the Board>> (see <<art63, Article 63>>) for an <<art64,opinion>> on whether the code *provides appropriate safeguards*; the Board must submit its opinion to the European Commission, which may decide to *register and publish the code* if it is valid, in accordance with the examination procedure specified by <<art93,Article 93>>.
+. The Board must collect all approved codes in a publicly available register.
 
 [#art41]
 == Article 41: Monitoring of approved codes of conduct
