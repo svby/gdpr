@@ -980,7 +980,22 @@ In order to ensure the consistent application of the GDPR, supervisory authoriti
 
 _See also <<art68,Article 68>>._
 
-=== TODO
+. If a supervisory authority intends to adopt one of the following measures, the Board shall issue an opinion
+.. aims to adopt a list of processing operations (requirement for data protection impact assessments, _see <<art35,Article 35(4)>>_)
+.. whether a draft code of conduct or an amendment/extension to a code of conduct complies with this Regulation (_see <<art40, Article 40(7)>>_)
+.. aims to approve criteria regarding Article <<art41,41(3)>> or <<art43,43(3)>>
+.. determination of standard data protection clauses (_see Article <<art46,46(2)(d)>> and <<art28,28(8)>>_)
+.. authorise contractual clauses (_see <<art46,Article 46(3)(a)>>_)
+.. approve corporate rules (_see <<art47,Article 47>>_)
+. The Board can be asked for opinions by any supervisory authority, the Chair of the Board or the Commission, especially where supervisory authorities do not comply with Article <<art61,61>> and <<art62,62>>
+. Given the matter has not already been discussed by the board, it has a period of 8 weeks, as well as further 6 weeks on complex cases. A member which has not objected in reasonable time is deemed in agreement to the draft decision.
+. Supervisory authorities and the Commission shall with undue delay send all important (and needed) information to the board in an electronic manner. -> Standardised form
+. The Chair of the Board shall inform with undue delay by electronic means:
+.. the members of the board about information about the case -> also translations where needed
+.. the supervisory authority and the Commission of the opinion and make it public
+. A supervisory authority shall not adopt its draft decision from paragraph 1 within the period from paragraph 3.
+. The supervisory authority shall take account of the opinion and within two weeks communicate by electronic means whether it will maintain or amend its draft decision -> amended draft decision using standardised format.
+. If the supervisory authority decides to not follow the opinion of the board, it shall communicate this to the Board within two weeks (paragraph 7) -> <<art65,Article 65(1)>> shall apply.
 
 [#art65]
 == Article 65: Dispute resolution by the Board
