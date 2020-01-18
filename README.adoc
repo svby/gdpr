@@ -763,7 +763,35 @@ Authorizations by the European Commission, a Member State, or a <<supervisory-au
 [#art47]
 == Article 47: Binding corporate rules
 
-=== TODO
+. The supervisory authority approves corporate rules according to <<art63,Article 63>>, if they:
+.. are legally binding and concern every employee of all companies
+.. expressly confer enforcable rights on data subjects with regard to processing their personal data
+.. fulfil the requirements of paragraph 2.
+. The corporate rules should specify:
+.. structure and contact details of companies in joint ventures and their respective members.
+.. the data that is being handled, including categories as well as the type of processing, why the processing is done, the data subjects affected and any third countries in question.
+.. their legally binding nature, both internally and externally
+.. the application of the GDPR, such as:
+... purpose limitation
+... data minimisation
+... limited storage periods
+... data quality
+... data protection by design/default
+... legal basis for processing
+... processing of special categories of personal data
+... measures to ensure data security
+... requirements of transfers to third parties
+.. the rights of data subjects regarding the use of their data (in terms of processing: <<art22,Article 22>>; in terms of filing a complaint: <<art79,Article 79>>)
+.. in case of a data breach, the controller/processor is to be held liable, except when proven that they are not at fault
+.. how points d-f are explained to the data subject as well as Article <<art13,13>> and <<art14,14>>
+.. the tasks of the data protection officer (<<art37,Article 37>>) or any other person responsible for data protection.
+.. the complaint procedures
+.. there should be mechanisms to verify compliance with the corporate rules, as well as audits to ensure correct actions for data protection. The results should be communicated to the person mentioned in point (h) as well as the board of the company and should be available to the supervisory authority.
+.. mechanisms for recording and reporting changes to the rules to the supervisory authority
+.. make the results of the measures from point (j) available to the supervisory authority to ensure compliance by any member of the company
+.. mechanisms to report members of the company that have activity in a third country, which could affect the handling of personal data
+.. appropriate training for the employees having permanent or regular access to personal data.
+. The Commission may specify the format and procedures for the exchange between controllers, processors and supervisory authorities for corporate rules. Adoption according to <<art93,Article 93(2)>>.
 
 [#art48]
 == Article 48: Transfers or disclosures not authorised by Union law
