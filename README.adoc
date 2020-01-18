@@ -333,7 +333,7 @@ If the personal data has been made public by the controller, and is obliged by t
 
 These conditions *do not apply* if:
 
-. processising is necessary to exercise *<<art85,the right to freedom of expression and information>>*
+. processing is necessary to exercise *<<art85,the right to freedom of expression and information>>*
 . processing is necessary to *comply with legal obligations*, to *exercise an official authority* of the controller, or for a task *carried out in the public interest* (see <<art9-exceptions,Article 9>>)
 . processing is necessary for archiving or for research purposes
 . processing is necessary for *the establishment, exercise or defense of legal claims*
