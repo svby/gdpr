@@ -699,7 +699,23 @@ If the body is not operating according to the GDPR, the accreditation can be *re
 
 _See also <<art40,Article 42>>._
 
-=== TODO
+. Certification bodies with an appropriate level of expertise in data protection should be able to issue and renew certifications. Member States should ensure that they are accredited by at least one of:
+.. The supervisory authority according to Article <<art55,55>> or <<art56,56>>
+.. The national accreditation body according to the https://eur-lex.europa.eu/eli/reg/2008/765/oj[European Parliament] and https://www.iso.org/standard/46568.html[the Council] with additional requirements from the supervisory authority according to Article <<art55,55>> or <<art56,56>>
+. They should only be accredited where:
+.. demonstrated independence and expertise towards the supervisory authority in the subject-matter of the certification
+.. respect the defined and approved <<art42,criteria>>
+.. established procedures for:
+... issuing, periodic review and withdrawal of data protection certifications/seals/marks
+... handle complaints about infringements and wrong implementation of certification and to make those procedures and structures transparent to data subjects and the public
+.. proved that their doing does not result in a conflict of interests
+. The Accreditation should take place on the basis of criteria approved by supervisory authority (Article <<art55,55>> or <<art56,56>>) or by <<art63,the Board>>
+. The certification body can hand out certificates to processors and controllers for a period of 5 years before having to renew their allowance to hand out certificates.
+. The certification body shall provide the supervisory authorities with a reason for granting or withdrawing a requested certification.
+. The supervisory authority has to make the requirements from paragraph 3 as well as <<art 42,Article 42(5)>> publicly available. The board shall collect all certification mechanisms as well as data protection seals in a public register.
+. If the certification body doesn't operate according to paragraph 1 (and the entire Regulation), their accreditation shall be revoked by a supervisory authority or national accreditation body.
+. The Commission is allowed to adopt delegated acts (_see <<art92,Article 92>>_) to specify requirements for data protection certification mechanisms (_<<art42,Article 42(1)>>_).
+. The Commission may adapt technical standards and mechanisms for promotion and recognision of certification mechanisms, seals and marks according to <<art93,Article 93(2)>>.
 
 [#art44]
 == Article 44: General principle for transfers
