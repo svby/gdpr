@@ -801,7 +801,22 @@ Any judgement of a court or administrative authority of a third country *requiri
 [#art49]
 == Article 49: Derogations for specific situations
 
-=== TODO
+. If the rules set out in either <<art45,Article 45(3)>> or <<art46,Article 46>>, a transfer of personal data to a third country is only allowed when:
+.. explicit consent by the data subject, after being informed thoroughly
+.. a transfer is needed to fulfill a contract between the data subject and the controller
+.. a transfer is needed to fulfill a contract in the interest of the data subject between the controller and another natural/legal person
+.. public interest
+.. needed for establishment, exercise, defence of legal claims
+.. protection of vital interests of the data subjects or another person, where the data subjects is not able to give consent
+.. the request is from a register that has been given access to by the Union/Member State laws to a certain degree
+. In case of transfers according to point (g), the results should not include all information, but just the one intended for the request.
+. Points (a), (b), (c) do not apply to public authorities exercising their public powers.
+. The public interest in point (d) shall be recognised by Union or relative Member State law
+. In absence of an adequacy decision, Union/Member State law may for public interest expressly set limits of categories of personal data to be transfered to third countries. -> Member States shall notify the Commission.
+. The controller/processor shall document the assessment and suitable safeguards 
+(_see <<art30,Article 30>>_)
+
+If a transfer could not be based on provisions of Article <<art45,45>>, <<art46,46>> or corporate rules applies, as well as none of the reasons stated above a transfer may still take place as long as the request is not repetitive, concerns only a limited amount of data subjects, legitimate interest for the controller which is not conflicting with the interest of data subjects, as well as appropriate safeguards from the controller. The controller shall inform the supervisory authority of the transfer as well the data subject and explain their reasoning according to articles <<art13,13>> and <<art14,14>>.
 
 [#art50]
 == Article 50: International cooperation for the protection of personal data
